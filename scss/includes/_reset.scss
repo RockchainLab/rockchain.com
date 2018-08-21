@@ -1,0 +1,40 @@
+/* RESET */
+
+* {
+  padding: 0;
+  margin: 0;
+  &:focus,
+  &:hover,
+  &:active {
+    outline: none;
+  }
+}
+
+html{
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+}
+
+img,
+fieldset {
+  border: 0;
+}
+
+img {
+  -ms-interpolation-mode: bicubic;
+}
+
+abbr,
+.help {
+  cursor: help;
+}
+
+table {
+  border-spacing: 0;
+}
+
+button::-moz-focus-inner,
+input[type="submit"]::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
