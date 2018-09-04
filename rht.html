@@ -1,25 +1,26 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>RHT Rockchain Advisory</title>
+    <link rel="import" href="header.html">
+    <title>RHT Rockchain Advisory</title>
 
-    <!-- These are the custom tags specific to each page and not loaded from the common header -->
-    <meta name="keywords" content="Rockchain, RHT, Joint Venture, Advisory, Singapore, Asia" />
-    <meta name="description" content="RHTRA delivers specialised tokenomics consultancy, advice on exchange listings and other ancillary services for TGEs and for businesses applying blockchain and other distributed ledger technologies in general." />
-    <meta name="robots" content="index, follow" />
+        <!-- These are the custom tags specific to each page and not loaded from the common header -->
+        <meta name="keywords" content="Rockchain, RHT, Joint Venture, Advisory, Singapore, Asia" />
+        <meta name="description" content="RHTRA delivers specialised tokenomics consultancy, advice on exchange listings and other ancillary services for TGEs and for businesses applying blockchain and other distributed ledger technologies in general." />
+        <meta name="robots" content="index, follow" />
 
-    <meta property="og:url" content="https://rockchain.com/rht"/>
-    <meta property="og:title" content="RHT Rockchain Advisory"/>
-    <meta property="og:description" content="RHTRA delivers specialised tokenomics consultancy, advice on exchange listings and other ancillary services for TGEs and for businesses applying blockchain and other distributed ledger technologies in general."/>
+        <meta property="og:url" content="https://rockchain.com/rht"/>
+        <meta property="og:title" content="RHT Rockchain Advisory"/>
+        <meta property="og:description" content="RHTRA delivers specialised tokenomics consultancy, advice on exchange listings and other ancillary services for TGEs and for businesses applying blockchain and other distributed ledger technologies in general."/>
 
-<script src="js/jquery.js"></script>
-<script>
-    $(document).ready(function() {  
-        $.get('header.html', function(data) { $('head').append(data); });
-        $.get('footer.html', function(data) { $('.master-wrapper').append(data); });
-        $("#menu").load("menu.html"); 
-    });
-</script> 
+    <script src="js/jquery.js"></script>
+    <script>
+        $(document).ready(function() {  
+            //$.get('header.html', function(data) { $('head').append(data); });
+            $.get('footer.html', function(data) { $('.master-wrapper').append(data); });
+            $("#menu").load("menu.html"); 
+        });
+    </script> 
 </head>
 <body>
 <div class="master-wrapper">
