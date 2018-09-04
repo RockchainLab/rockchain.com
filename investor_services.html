@@ -1,24 +1,25 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Investor Services</title>
+	<link rel="import" href="header.html">
+	<title>Investor Services</title>
 
-<meta name="keywords" content="Rockchain, Investors" />
-<meta name="description" content="If you are considering investing into a particular vertical, fund or an individual project, we can help you understand the opportunity in the wider context of the industry and properly assess the risks and potential returns." />
-<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="Rockchain, Investors" />
+	<meta name="description" content="If you are considering investing into a particular vertical, fund or an individual project, we can help you understand the opportunity in the wider context of the industry and properly assess the risks and potential returns." />
+	<meta name="robots" content="index, follow" />
 
-<meta property="og:url" content="https://www.rockchain.com/"/>
-<meta property="og:title" content="Investor Services"/>
-<meta property="og:description" content="If you are considering investing into a particular vertical, fund or an individual project, we can help you understand the opportunity in the wider context of the industry and properly assess the risks and potential returns."/>
+	<meta property="og:url" content="https://www.rockchain.com/"/>
+	<meta property="og:title" content="Investor Services"/>
+	<meta property="og:description" content="If you are considering investing into a particular vertical, fund or an individual project, we can help you understand the opportunity in the wider context of the industry and properly assess the risks and potential returns."/>
 
-<script src="js/jquery.js"></script>
-<script>
-    $(document).ready(function() {  
-        $.get('header.html', function(data) { $('head').append(data); });
-        $.get('footer.html', function(data) { $('.master-wrapper').append(data); });
-        $("#menu").load("menu.html"); 
-    });
-</script> 
+	<script src="js/jquery.js"></script>
+	<script>
+		$(document).ready(function() {  
+			//$.get('header.html', function(data) { $('head').append(data); });
+			$.get('footer.html', function(data) { $('.master-wrapper').append(data); });
+			$("#menu").load("menu.html"); 
+		});
+	</script> 
 </head>
 <body>
 <div class="master-wrapper">

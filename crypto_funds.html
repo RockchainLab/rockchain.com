@@ -1,24 +1,25 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Rockchain.com | Advisory and integrity for the Crypto Economy</title>
+	<link rel="import" href="header.html">
+	<title>Rockchain.com | Advisory and integrity for the Crypto Economy</title>
 
-<meta name="keywords" content="Rockchain, Crypto, Funds, Investments" />
-<meta name="description" content="We provide tailored services for funds investing into cryptocurrencies, coins, tokens or other forms of Digital Assets." />
-<meta name="robots" content="index, follow" />
+	<meta name="keywords" content="Rockchain, Crypto, Funds, Investments" />
+	<meta name="description" content="We provide tailored services for funds investing into cryptocurrencies, coins, tokens or other forms of Digital Assets." />
+	<meta name="robots" content="index, follow" />
 
-<meta property="og:url" content="https://www.rockchain.com/"/>
-<meta property="og:title" content="Crypto Funds Services"/>
-<meta property="og:description" content="We provide tailored services for funds investing into cryptocurrencies, coins, tokens or other forms of Digital Assets."/>
+	<meta property="og:url" content="https://www.rockchain.com/"/>
+	<meta property="og:title" content="Crypto Funds Services"/>
+	<meta property="og:description" content="We provide tailored services for funds investing into cryptocurrencies, coins, tokens or other forms of Digital Assets."/>
 
-<script src="js/jquery.js"></script>
-<script>
-    $(document).ready(function() {  
-        $.get('header.html', function(data) { $('head').append(data); });
-        $.get('footer.html', function(data) { $('.master-wrapper').append(data); });
-        $("#menu").load("menu.html"); 
-    });
-</script> 
+	<script src="js/jquery.js"></script>
+	<script>
+		$(document).ready(function() {  
+			//$.get('header.html', function(data) { $('head').append(data); });
+			$.get('footer.html', function(data) { $('.master-wrapper').append(data); });
+			$("#menu").load("menu.html"); 
+		});
+	</script>
 </head>
 <body>
 <div class="master-wrapper">
