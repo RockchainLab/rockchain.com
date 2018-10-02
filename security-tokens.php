@@ -69,20 +69,20 @@ $custom_og = '
 					<li>Key challenge: Compliance automation</li>
 					<li>Complex jurisdiciton-specific rules influencing transferability</li>
 					<li>Investor qualification required</li>
-					<li>Dividend, Interst, Royalties distribution</li>
-					<li>Tranches with different right</li>
-					<li>Enforced transfers, re-issuences</li>
-					<li>Lockup periods, vesting, Drag and Tag, Voting</li>
+					<li>Dividend, Interest, Royalties distribution</li>
+					<li>Tranches with different rights</li>
+					<li>Enforced transfers, re-issuances</li>
+					<li>Lockup periods, Vesting, Drag and Tag, Voting</li>
           <li>Can be built on Public or Private/Permissioned blockchain</li>
           <li>Can support extra features as described for <a href="utility-tokens">Utility Tokens</a></li>
 					<li>May require off-chain components for compliance and benefit collections</li>
-					<li>We can offer legal compliance advisory with our partner law firms in Singapore, London and Gibraltar</li>
+					<li>We can offer legal compliance advisory with our partner law firms in Singapore, London, Gibraltar and elsewhere internationally</li>
 				</ul>
 			</div>
 			<div class="box-6">
-				<p class="paragraph-1">Security Tokens can bring many benefits to the traditional world of issuing and trading of securities, such as wider access to investor base, 24/7 liquidity, peer-to-peer trading, raise funds in cryptocurrency, removing of costly and often inefficient intermediaries.</p>
-				<p class="paragraph-1">However, these are regulated financial instruments and as such require careful planning, legal and technical analysis to ensure compliance with complex rules that vary accross jurisdictions.</p>
-				<p class="paragraph-1">Rockchain can help you analyse your gols and requirements and develop the Security Smart contract to match your expecations and complaince rules.</p>
+				<p class="paragraph-1">Security Tokens can bring many benefits to the traditional world of issuing and trading of securities, such as access to a wider base of investors, 24/7 liquidity, peer-to-peer trading, raising funds in cryptocurrency, removing of costly and often inefficient intermediaries.</p>
+				<p class="paragraph-1">However, these are regulated financial instruments and as such require careful planning, legal and technical analysis to ensure compliance with complex rules that vary across jurisdictions.</p>
+				<p class="paragraph-1">Rockchain can help you analyse your goals and requirements and develop the Security Smart Contract to match your expecations and compliance rules.</p>
 				<a class="typeform-share button-cta" href="https://rockchain.typeform.com/to/G6TkWd" data-mode="drawer_left" target="_blank">Contact</a>
 			</div>
 		</div>
@@ -97,7 +97,7 @@ $custom_og = '
 				<h3>Compliance</h3>
 				<p>We work with you to analyze your requirements with the objective to fully understand your goals, legal compliance implications and identify necessary off-chain components to reliably link an asset to the digital token.</p>
 				<h3>Technology suitability</h3>
-				<p>We assit you in selecting the most usefull distributed ledger technology and protocols to best support your goals.</p>
+				<p>We assit you in selecting the most useful distributed ledger technology and protocols to best support your goals.</p>
 			</div>
 		</div>
 		<div class="question-wrapper">
@@ -120,7 +120,7 @@ $custom_og = '
         <h3>Unit Tests</h3>
 				<p>Unit tests are actions that focus on a specific unit of code, usually a function, and stress it by trying out different inputs, both normal and abnormal, checking that the outputs are as expected.</p>
         <h3>Integration Tests</h3>
-        <p>We than run Integration Tests for the contract as a whole. Integration tests involve multiple pieces of the code, usually functions, being run in concert in order to simulate a process flow and verify that the different parts work together as specified.</p>
+        <p>We then run Integration Tests for the contract as a whole. Integration tests involve multiple pieces of the code, usually functions, being run in concert in order to simulate a process flow and verify that the different parts work together as specified.</p>
         <h3>Testnet deployment</h3>
         <p>Lastly, we deploy all components on a testnet and run the tests again in a distributed environment.</p>
 			</div>

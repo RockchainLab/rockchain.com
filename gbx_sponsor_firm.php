@@ -52,7 +52,7 @@ $custom_og = '
 		<h2 class="heading-2">Sponsor Firm</h2>
 		<div class="row-3 paragraphs">
 			<div class="box-6 box-s-margin">
-				<p class="paragraph-1">Rockchain is an approved Sponsor of the Gibraltar Blockchain Exchange (GBX). GBX adopts an institutional-grade token listing process for high quality projects matching our own principles of transparency, accountability and integrity. Every project listed on the Exchange must appoint and maintain a Sponsor - an accredited professional services firm responsible for clients’ compliance with applicable laws and rules of the Exchange.</p>
+				<p class="paragraph-1">Rockchain is an approved Sponsor of the Gibraltar Blockchain Exchange (GBX) for utility tokens. GBX adopts an institutional-grade token listing process for high quality projects matching our own principles of transparency, accountability and integrity. Every project listed on the Exchange must appoint and maintain a Sponsor - an accredited professional services firm responsible for clients’ compliance with applicable laws and rules of the Exchange.</p>
 				<p class="paragraph-1">Learn more about the Token listing and trading platform in Gibraltar and the benefits of listing your Token - <a target="_blank" href="https://gbx.gi">Gibraltar Blockchain Exchange</a>.</p>
 			</div>
 			<div class="box-6">
@@ -66,7 +66,7 @@ $custom_og = '
 		<div class="question-wrapper">
 			<h6 class="question-wrapper__question">What is the GBX?</h6>
 			<div class="question-wrapper__answer">
-				<p>The Gibraltar Blockchain Exchange (GBX) is a Token Sale Platform and Cryptocurrency Exchange for utility tokens launched by the Gibraltar Stock Exchange (GSX). It seeks to connect  token buyers and issuers through a trusted token sale platform and based on the principles of security, transparency and accessibility.</p>
+				<p>The Gibraltar Blockchain Exchange (GBX) is a Token Sale Platform and Cryptocurrency Exchange for utility-only tokens launched by the Gibraltar Stock Exchange (GSX). It seeks to connect  token buyers and issuers through a trusted token sale platform and based on the principles of security, transparency and accessibility.</p>
 			</div>
 		</div>
 		<div class="question-wrapper">
@@ -124,12 +124,6 @@ $custom_og = '
 				<p>It will depend on the circumstances and the grounds provided and we will advise you accordingly. A GBX listing may not be right for all projects. The goal of our evaluation and advice is to help improve your chances of success in your Token Sale and thereafter, regardless of whether this results in a GBX listing or whether you list on other exchanges.</p>
 			</div>
 		</div>
-		<!--div class="question-wrapper">
-			<h6 class="question-wrapper__question">What are the fees to the GBX?</h6>
-			<div class="question-wrapper__answer">
-				<p>Please see <a href="">here</a>.</p>
-			</div>
-		</div-->
 	</div>
 </section>
 <?php include 'footer.php'; ?>

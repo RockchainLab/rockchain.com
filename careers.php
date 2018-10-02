@@ -50,8 +50,7 @@ $custom_og = '
 			</div>
 			<div class="box-6">
 				<ul class="point-list">
-					<li>Compliance and Due Diligence Specialists (junior and senior level)</li>
-					<li>Marketing/PR/Communications professional</li>
+					<li>Private Placement Manager</li>
 				</ul>
 			</div>
 		</div>

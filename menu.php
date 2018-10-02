@@ -39,9 +39,6 @@
 			</ul>
 		</li>
 		<li class="main-menu__item">
-			<a class="main-menu__link <?php echo ($active == 'advisory')? 'active' : null; ?>" href="advisory">Advisory</a>
-		</li>
-		<li class="main-menu__item">
 			<a class="main-menu__link <?php echo ($active == 'company')? 'active' : null; ?>" href="company">Company</a>
 			<ul class="main-menu__submenu">
 				<li class="main-menu__submenu-item">
@@ -95,9 +92,6 @@
 						<a class="mobile-menu__submenu-link <?php echo ($active_submenu == 'security-token-offering')? 'active' : null; ?>" href="security-token-offering">Security Token Offering (STO)</a>
 					</li>
 				</ul>
-			</li>
-			<li class="mobile-menu__item">
-				<a class="mobile-menu__link <?php echo ($active_submenu == 'advisory')? 'active' : null; ?>" href="advisory">Advisory</a>
 			</li>
 			<li class="mobile-menu__item">
 				<a class="mobile-menu__link <?php echo ($active_submenu == 'company')? 'active' : null; ?>" href="company">Company</a>

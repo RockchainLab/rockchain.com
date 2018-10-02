@@ -64,7 +64,7 @@ $custom_og = '
 				</ul>
 			</div>
 			<div class="box-6">
-				<p class="paragraph-1">Rockchain provides extensive advice on strategic planning of a Token Offering, often called <a href="utility-token-sale">Token Generation Event (TGE/ICO)</a> or <a href="security-token-offering">Security Token Offering (STO)</a>.</p>
+				<p class="paragraph-1">Rockchain provides advisory services for your Token Offering, often called <a href="utility-token-sale">Token Generation Event (TGE/ICO)</a> or <a href="security-token-offering">Security Token Offering (STO)</a>.</p>
 				<p class="paragraph-1">We work as an ‘extension to your management team’ in an advisory role - offering you specialist skills and experience relevant to the project and extra bandwidth towards an efficient delivery and successful outcome.</p>
 				<p class="paragraph-1">For a Token Offering, a variety of services need to be provided and coordinated and we knit together a ‘best-in-class’ team of providers which we believe best suits your project.</p>
 				<p class="paragraph-1">Projects vary and we may connect with you at different stages, so we prefer to understand more about your project before we confirm the scope of services we can offer.</p>

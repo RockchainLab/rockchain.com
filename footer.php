@@ -52,9 +52,6 @@
 				</li>
 
 				<li class="footer__link-column">
-					<a class="footer__link" href="advisory">Advisory</a>
-				</li>
-				<li class="footer__link-column">
 					<a class="footer__link" href="company">Company</a>
 					<ul class="footer__submenu">
 						<li class="footer__submenu-item">

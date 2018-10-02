@@ -1,3 +1,8 @@
+<?php
+	header("Location: /",TRUE,301);
+	exit();
+?>
+
 <?
 $title = "Rockchain Advisory";
 $custom_meta = '

@@ -70,7 +70,7 @@ $custom_og = '
 					<li>Advisory on technology suitability</li>
 					<li>Off-chain component integrations</li>
 					<li>Decentralized Applications development</li>
-					<li>Private blockchain configuraion and deployment</li>
+					<li>Private blockchain configuration and deployment</li>
 				</ul>
 			</div>
 			<div class="box-6">

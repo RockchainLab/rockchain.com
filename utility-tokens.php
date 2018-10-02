@@ -77,7 +77,7 @@ $custom_og = '
 				</ul>
 			</div>
 			<div class="box-6">
-				<p class="paragraph-1"><a href="https://en.wikipedia.org/wiki/ERC-20">ERC20</a> and <a href="http://erc721.org/">ERC721</a> compliant tokens are the most popular types of smart contracts on the Ethereum blockchain. Often used as the means of fundraising during <a href="utility-token-sale">Utility Token Sales</a>, they had gained massive popularity in the Token Economy.</p>
+				<p class="paragraph-1"><a href="https://en.wikipedia.org/wiki/ERC-20">ERC20</a> and <a href="http://erc721.org/">ERC721</a> compliant tokens are the most popular types of smart contracts on the Ethereum blockchain. Often used as the means of fundraising during <a href="utility-token-sale">Utility Token Sales</a>, they have gained massive popularity in the Token Economy.</p>
 				<p class="paragraph-1">These tokens are widely accepted by crypto trading venues. Their standarized interface allows seamless integration into most popular wallets, exchanges and decentralized applications.</p>
 				<p class="paragraph-1">Rockchain's smart contract developers can design, develop, test, audit and deploy the ERC20/ERC721 tokens according to your needs, with a number of additional features tailored to your requirements. </p>
 				<a class="typeform-share button-cta" href="https://rockchain.typeform.com/to/G6TkWd" data-mode="drawer_left" target="_blank">Contact</a>
@@ -108,7 +108,7 @@ $custom_og = '
         <h3>Unit Tests</h3>
 				<p>We test the token smart contract off-chain first, using industry standard tools and local Ethereum blockchain. We perform Unit Tests for each function in the Smart Contract separately. Unit tests are actions that focus on a specific unit of code, usually a function, and stress it by trying out different inputs, both normal and abnormal, checking that the outputs are as expected.</p>
         <h3>Integration Tests</h3>
-        <p>We than run Integration Tests for the contract as a whole. Integration tests involve multiple pieces of the code, usually functions, being run in concert in order to simulate a process flow and verify that the different parts work together as specified.</p>
+        <p>We then run Integration Tests for the contract as a whole. Integration tests involve multiple pieces of the code, usually functions, being run in concert in order to simulate a process flow and verify that the different parts work together as specified.</p>
         <h3>Testnet deployment</h3>
         <p>Lastly, we deploy the contract to one of the Ethereum test networks (e.g. Ropsten) and run the tests again in a distributed environment.</p>
 			</div>
