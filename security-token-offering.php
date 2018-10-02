@@ -54,6 +54,7 @@ $custom_og = '
 		<div class="row-3 paragraphs">
 			<div class="box-6 box-s-margin">
 				<ul class="point-list">
+					<li>Design of the Security or Asset Backed Token to match your business needs</li>
 					<li>Strategic planning and project management</li>
 					<li>Due Diligence (Financial, Legal, Technology, Viability)</li>
 					<li>Advise on technology choices</li>

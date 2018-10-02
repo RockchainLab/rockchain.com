@@ -71,11 +71,11 @@ $custom_og = '
           <li>Can support extra features as described for <a href="utility-tokens">Utility Tokens</a></li>
 					<li>Certain types may be considered a financial security, see <a href="secrity-tokens">Security Tokens</a> for details</li>
 					<li>May require off-chain components for compliance and benefit collections</li>
-					<li>We can offer legal compliance advisory with our partner law firms in Singapore, London and Gibraltar</li>
+					<li>We can offer legal compliance advisory with our partner law firms in Singapore, London, Gibraltar and elsewhere internationally</li>
 				</ul>
 			</div>
 			<div class="box-6">
-				<p class="paragraph-1">An Asset Backed Token is a representation of a unique asset (digital or real world) in the form of a virtual token deployed on a blockchain or other form of Distributed Ledger Technology (DLT). Verifiably proves the ownership and authenticity of an asset. For example, a specific real estate, piece of art or precious gem is tokenized and ownership of the token directly reflects ownership of the item, immutably stored on the blockchain.</p>
+				<p class="paragraph-1">An Asset Backed Token is a representation of a unique asset (digital or real world) in the form of a virtual token deployed on a blockchain or other form of Distributed Ledger Technology (DLT). It verifiably proves the ownership and authenticity of an asset. For example, a specific real estate, piece of art or precious gem is tokenized and ownership of the token directly reflects ownership of the item, immutably stored on the blockchain.</p>
 				<p class="paragraph-1">These tokens help to unlock transferable value, that is traditionally trapped in less liquid assets and enables further fractionalized ownership of such assets.</p>
 				<a class="typeform-share button-cta" href="https://rockchain.typeform.com/to/G6TkWd" data-mode="drawer_left" target="_blank">Contact</a>
 			</div>
@@ -91,7 +91,7 @@ $custom_og = '
 				<h3>Compliance</h3>
 				<p>We work with you to analyze your requirements with the objective to fully understand your goals, legal compliance implications and identify necessary off-chain components to reliably link an asset to the digital token.</p>
 				<h3>Technology suitability</h3>
-				<p>We assit you in selecting the most usefull distributed ledger technology and protocols to best support your goals.</p>
+				<p>We assit you in selecting the most useful distributed ledger technology and protocols to best support your goals.</p>
 			</div>
 		</div>
 		<div class="question-wrapper">

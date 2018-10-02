@@ -65,12 +65,6 @@ $custom_og = '
 			</div>
 		</div>
 		<div class="question-wrapper">
-			<h6 class="question-wrapper__question">Market Making</h6>
-			<div class="question-wrapper__answer">
-				<p>We work with providers of  liquidity and price stabilising services for your newly issued token.  Market making services can be an important strategy to provide liquidity and stability after your token sale. This needs to be set up before your token sale for maximum effect.</p>
-			</div>
-		</div>
-		<div class="question-wrapper">
 			<h6 class="question-wrapper__question">Sponsor</h6>
 			<div class="question-wrapper__answer">
 				<p>If we are also your Sponsor Firm (for a GBX listing) we will continue to be your Sponsor Firm subject to the terms of our engagement and the requirements of the GBX rules from time to time.</p>
