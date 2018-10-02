@@ -7,7 +7,7 @@ $custom_meta = '
 
 $custom_og = '
 <meta property="og:url" content="https://www.rockchain.com/"/>
-<meta property="og:title" content="Smart Contract, Development"/>
+<meta property="og:title" content="Smart Contracts, Development"/>
 <meta property="og:description" content="Smart contract development for blockchain and other distributed ledger technologies. Utility Tokens (ERC20), Security Tokens, Multi-signature wallets and more."/>';
 ?>
 <?php include 'header.php'; ?>
@@ -16,12 +16,12 @@ $custom_og = '
 <section class="section-hero hero-small-illustration hero-illustration-1">
 	<div class="container section-hero__container">
 		<?php include 'menu.php'; ?>
-		<h1 class="heading-1"><span class="highlight">Smart Contracts</span> Development</h1>
+		<h1 class="heading-1"><span class="highlight">Smart Contract</span> Development</h1>
 		<nav class="tab-nav tab-nav-4">
-			<div class="tab-nav__tab">
+			<div class="tab-nav__tab active">
 				<a class="tab-nav__link" href="gbx_sponsor_firm">Smart Contracts</a>
 			</div>
-			<div class="tab-nav__tab active">
+			<div class="tab-nav__tab">
 				<a class="tab-nav__link" href="utility-tokens">Utility Tokens</a>
 			</div>
 			<div class="tab-nav__tab">
@@ -64,7 +64,7 @@ $custom_og = '
 		<div class="row-3">
 			<div class="box-4 advantage">
 				<div class="advantage__icon advantage__icon-1"></div>
-				<h3 class="heading-3">Smart Contracts</h3>
+				<h3 class="heading-3">What are Smart Contracts?</h3>
 				<p class="paragraph-2">Software that facilitates, verifies, or enforces a digital contract running on Blockchain or other forms of Distributed Ledger Technology.</p>
 			</div>
 			<div class="box-4 advantage">
@@ -92,7 +92,7 @@ $custom_og = '
 					</li>
 					<li>
 						<p>Multi Signature Wallets</p>
-						<p class="paragraph-1 paragraph-1--forced">Smart Contracts can also be deployed to perform a function of a Multi Signature Wallet.</p>
+						<p class="paragraph-1 paragraph-1--forced">Smart Contracts can also be deployed to perform a function of a <a href="multisig-wallet">Multi Signature Wallet</a>.</p>
 					</li>
 					<li>
 						<p>Bespoke Smart Contracts</p>
@@ -101,8 +101,22 @@ $custom_og = '
 				</ul>
 			</div>
 			<div class="box-6">
-				<p>Smart Contract Audit</p>
-				<p class="paragraph-1">We can audit your Smart Contract code and help mitigate security, integrity and availability issues. To ensure independency of audit, we use reliable 3rd party audit firms to audit any code that we develop for you.</p>
+				<ul class="point-list">
+					<li>
+						<p>Smart Contract Audit</p>
+						<p class="paragraph-1">We can audit your Smart Contract code and help mitigate security, integrity and availability issues. To ensure independency of audit, we use reliable 3rd party audit firms to audit any code that we develop for you.</p>
+					</li>
+					<li>
+						<p>Off-the-Shelf features</p>
+						<p class="paragraph-1">Our Token contracts offer many off-the-shelf features that you can implent as extras to you basic Token design. Find more information in:
+							<ul>
+								<li><a href="utility-tokens">Utility Tokens</a></li>
+								<li><a href="asset-backed-tokens">Asset Backed Tokens</a></li>
+								<li><a href="security-tokens">Security Tokens</a></li>
+							</ul>
+						</p>
+					</li>
+				</ul>
 			</div>
 		</div>
 	</div>
