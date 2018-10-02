@@ -19,7 +19,7 @@ $custom_og = '
 		<h1 class="heading-1"><span class="highlight">Smart Contract</span> Development</h1>
 		<nav class="tab-nav tab-nav-4">
 			<div class="tab-nav__tab active">
-				<a class="tab-nav__link" href="gbx_sponsor_firm">Smart Contracts</a>
+				<a class="tab-nav__link" href="smart-contracts">Smart Contracts</a>
 			</div>
 			<div class="tab-nav__tab">
 				<a class="tab-nav__link" href="utility-tokens">Utility Tokens</a>
@@ -31,7 +31,7 @@ $custom_og = '
 				<a class="tab-nav__link" href="security-tokens">Security Tokens</a>
 			</div>
 			<div class="tab-nav__tab">
-				<a class="tab-nav__link" href="multisig-wallet">Multi-Sig Wallets</a>
+				<a class="tab-nav__link" href="multisig-wallets">Multi-Sig Wallets</a>
 			</div>
 			<div class="tab-nav__tab">
 				<a class="tab-nav__link" href="bespoke-smart-contracts">Bespoke</a>
@@ -43,7 +43,7 @@ $custom_og = '
 	<div class="container section-white__container">
 		<nav class="tab-nav-mobile">
 			<div class="tab-nav-mobile__tab active">
-				<a class="tab-nav-mobile__link" href="gbx_sponsor_firm">Smart Contracts</a>
+				<a class="tab-nav-mobile__link" href="smart-contracts">Smart Contracts</a>
 			</div>
 			<div class="tab-nav-mobile__tab">
 				<a class="tab-nav-mobile__link" href="utility-tokens">Utility Tokens</a>
@@ -55,7 +55,7 @@ $custom_og = '
 				<a class="tab-nav-mobile__link" href="security-tokens">Security Tokens</a>
 			</div>
 			<div class="tab-nav-mobile__tab">
-				<a class="tab-nav-mobile__link" href="multisig-wallet">Multi-Sig Wallets</a>
+				<a class="tab-nav-mobile__link" href="multisig-wallets">Multi-Sig Wallets</a>
 			</div>
 			<div class="tab-nav-mobile__tab">
 				<a class="tab-nav-mobile__link" href="bespoke-smart-contracts">Bespoke</a>
@@ -92,11 +92,11 @@ $custom_og = '
 					</li>
 					<li>
 						<p>Multi Signature Wallets</p>
-						<p class="paragraph-1 paragraph-1--forced">Smart Contracts can also be deployed to perform a function of a <a href="multisig-wallet">Multi Signature Wallet</a>.</p>
+						<p class="paragraph-1 paragraph-1--forced">Smart Contracts can be deployed to perform a function of a <a href="multisig-wallet">Multi Signature Wallet</a>. We can deploy such contracts for you, to help you manage your digital assets in a responsible manner and train you or your staff to use a Multi Signature Wallet operations.</p>
 					</li>
 					<li>
 						<p>Bespoke Smart Contracts</p>
-						<p class="paragraph-1 paragraph-1--forced">Rockchain can help you develop smart contracts tailored to your specific needs following industry best practices and DevOps management.</p>
+						<p class="paragraph-1 paragraph-1--forced">Rockchain develops smart contracts tailored to your specific needs following industry best practices and DevOps management.</p>
 					</li>
 				</ul>
 			</div>
@@ -104,17 +104,17 @@ $custom_og = '
 				<ul class="point-list">
 					<li>
 						<p>Smart Contract Audit</p>
-						<p class="paragraph-1">We can audit your Smart Contract code and help mitigate security, integrity and availability issues. To ensure independency of audit, we use reliable 3rd party audit firms to audit any code that we develop for you.</p>
+						<p class="paragraph-1 paragraph-1--forced">We can audit Smart Contracts developed by 3rd parties and help to mitigate potential security, integrity and availability issues.</p>
+						<p class="paragraph-1 paragraph-1--forced">The source code audit must be independent, therefore for any source code developed internally by Rockchain, we work with other industry leaders to independently audit Smart Contracts we develop for you.</p>
 					</li>
 					<li>
 						<p>Off-the-Shelf features</p>
-						<p class="paragraph-1">Our Token contracts offer many off-the-shelf features that you can implent as extras to you basic Token design. Find more information in:
+						<p class="paragraph-1 paragraph-1--forced">Our Token contracts offer many off-the-shelf features that you can implent as extras to you basic Token design. Find more information here:</p></br>
 							<ul>
 								<li><a href="utility-tokens">Utility Tokens</a></li>
 								<li><a href="asset-backed-tokens">Asset Backed Tokens</a></li>
 								<li><a href="security-tokens">Security Tokens</a></li>
 							</ul>
-						</p>
 					</li>
 				</ul>
 			</div>

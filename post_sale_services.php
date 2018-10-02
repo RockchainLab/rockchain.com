@@ -1,5 +1,5 @@
 <?
-$title = "Post ICO Services";
+$title = "Post Token Sale Services";
 $custom_meta = '
 <meta name="keywords" content="Rockchain, Post-ICO, Token Sale, Post-Sale, TGE, Post-TGE, Token Generation Event" />
 <meta name="description" content="Successfully completing your token sale presents another set of challenges, such as currency conversion to FIAT currency, listing your token on exchanges and creating a healthy market ecosystem." />
@@ -7,7 +7,7 @@ $custom_meta = '
 
 $custom_og = '
 <meta property="og:url" content="https://www.rockchain.com/"/>
-<meta property="og:title" content="Post ICO Services"/>
+<meta property="og:title" content="Post Token Sale Services"/>
 <meta property="og:description" content="Successfully completing your token sale presents another set of challenges, such as currency conversion to FIAT currency, listing your token on exchanges and creating a healthy market ecosystem."/>';
 ?>
 <?php include 'header.php'; ?>
@@ -18,13 +18,13 @@ $custom_og = '
 		<h1 class="heading-1">Services for projects that had <span class="highlight">completed a Token Sale</span>.</h1>
 		<nav class="tab-nav tab-nav-4">
 			<div class="tab-nav__tab">
-				<a class="tab-nav__link" href="token_sales">Token sales</a>
+				<a class="tab-nav__link" href="token_sales">Token Sales</a>
 			</div>
 			<div class="tab-nav__tab">
-				<a class="tab-nav__link" href="token_engagement_process">Engagement process</a>
+				<a class="tab-nav__link" href="utility-token-sale">Utility Token Sale (ICO/TGE)</a>
 			</div>
 			<div class="tab-nav__tab">
-				<a class="tab-nav__link" href="token_smart_contracts">Token Smart Contracts</a>
+				<a class="tab-nav__link" href="security-token-offering">Security Token Offering (STO)</a>
 			</div>
 			<div class="tab-nav__tab active">
 				<a class="tab-nav__link" href="post_sale_services">Post-Sale services</a>
@@ -36,13 +36,13 @@ $custom_og = '
 	<div class="container section-white__container">
 		<nav class="tab-nav-mobile">
 			<div class="tab-nav-mobile__tab">
-				<a class="tab-nav-mobile__link" href="token_sales">Token sales</a>
+				<a class="tab-nav-mobile__link" href="token_sales">Token Sales</a>
 			</div>
 			<div class="tab-nav-mobile__tab">
-				<a class="tab-nav-mobile__link" href="token_engagement_process">Engagement process</a>
+				<a class="tab-nav-mobile__link" href="utility-token-sale">Utility Token Sale (ICO/TGE)</a>
 			</div>
 			<div class="tab-nav-mobile__tab">
-				<a class="tab-nav-mobile__link" href="token_smart_contracts">Token Smart Contracts</a>
+				<a class="tab-nav-mobile__link" href="security-token-offering">Security Token Offering (STO)</a>
 			</div>
 			<div class="tab-nav-mobile__tab active">
 				<a class="tab-nav-mobile__link" href="post_sale_services">Post-Sale services</a>

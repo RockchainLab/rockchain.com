@@ -6,51 +6,41 @@
 		</li-->
 		<li class="main-menu__item">
 			<a class="main-menu__link <?php echo ($active == 'gbx-sponsor-firm')? 'active' : null; ?>" href="gbx_sponsor_firm">GBX Sponsor Firm</a>
-<!--
+		</li>
+		<li class="main-menu__item">
+			<a class="main-menu__link <?php echo ($active == 'smart-contracts')? 'active' : null; ?>" href="smart-contracts">Smart Contracts</a>
 			<ul class="main-menu__submenu">
 				<li class="main-menu__submenu-item">
-					<a class="main-menu__submenu-link" href="about_gbx">About GBX</a>
+					<a class="main-menu__submenu-link" href="utility-tokens">Utility Tokens</a>
 				</li>
 				<li class="main-menu__submenu-item">
-					<a class="main-menu__submenu-link" href="engagement_process">Engagement process</a>
+					<a class="main-menu__submenu-link" href="asset-backed-tokens">Asset Backed Tokens</a>
 				</li>
 				<li class="main-menu__submenu-item">
-					<a class="main-menu__submenu-link" href="evaluation_report">Evaluation report</a>
+					<a class="main-menu__submenu-link" href="security-tokens">Security Tokens</a>
+				</li>
+				<li class="main-menu__submenu-item">
+					<a class="main-menu__submenu-link" href="multisig-wallets">Multi-Sig Wallets</a>
+				</li>
+				<li class="main-menu__submenu-item">
+					<a class="main-menu__submenu-link" href="bespoke-smart-contracts">Bespoke Development</a>
 				</li>
 			</ul>
--->
 		</li>
 		<li class="main-menu__item">
-			<a class="main-menu__link <?php echo ($active == 'token-sales')? 'active' : null; ?>" href="token_sales">Tokenization Advisory</a>
-<!--
+			<a class="main-menu__link <?php echo ($active == 'token-sales')? 'active' : null; ?>" href="token_sales">Token Sales</a>
 			<ul class="main-menu__submenu">
 				<li class="main-menu__submenu-item">
-					<a class="main-menu__submenu-link" href="token_engagement_process">Engagement process</a>
+					<a class="main-menu__submenu-link" href="utility-token-sale">Utility Token Sale (ICO/TGE)</a>
 				</li>
 				<li class="main-menu__submenu-item">
-					<a class="main-menu__submenu-link" href="token_smart_contracts">Smart Contracts</a>
-				</li>
-				<li class="main-menu__submenu-item">
-					<a class="main-menu__submenu-link" href="post_ico_services">Post-Sale services</a>
+					<a class="main-menu__submenu-link" href="security-token-offering">Security Token Offering (STO)</a>
 				</li>
 			</ul>
--->
 		</li>
-<!--
-		<li class="main-menu__item">
-			<a class="main-menu__link <?php echo ($active == 'crypto-funds')? 'active' : null; ?>" href="crypto_funds">Crypto Funds</a>
-		</li>
--->
-<!--
-		<li class="main-menu__item">
-			<a class="main-menu__link <?php echo ($active == 'investor-services')? 'active' : null; ?>" href="investor_services">Investors</a>
-		</li>
--->
-<!--
 		<li class="main-menu__item">
 			<a class="main-menu__link <?php echo ($active == 'advisory')? 'active' : null; ?>" href="advisory">Advisory</a>
 		</li>
--->
 		<li class="main-menu__item">
 			<a class="main-menu__link <?php echo ($active == 'company')? 'active' : null; ?>" href="company">Company</a>
 			<ul class="main-menu__submenu">
@@ -74,47 +64,41 @@
 			</li-->
 			<li class="mobile-menu__item">
 				<a class="mobile-menu__link <?php echo ($active_submenu == 'gbx-sponsor-firm')? 'active' : null; ?>" href="gbx_sponsor_firm">GBX Sponsor Firm</a>
-<!--
+			</li>
+			<li class="mobile-menu__item">
+				<a class="mobile-menu__link <?php echo ($active_submenu == 'smart-contracts')? 'active' : null; ?>" href="smart-contracts">Smart Contracts</a>
 				<ul class="mobile-menu__submenu">
 					<li class="mobile-menu__submenu-item">
-						<a class="mobile-menu__submenu-link <?php echo ($active_submenu == 'about-gbx')? 'active' : null; ?>" href="about_gbx">About GBX</a>
+						<a class="mobile-menu__submenu-link <?php echo ($active_submenu == 'utility-tokens')? 'active' : null; ?>" href="utility-tokens">Utility Tokens</a>
 					</li>
 					<li class="mobile-menu__submenu-item">
-						<a class="mobile-menu__submenu-link <?php echo ($active_submenu == 'engagement-process')? 'active' : null; ?>" href="engagement_process">Engagement process</a>
+						<a class="mobile-menu__submenu-link <?php echo ($active_submenu == 'asset-backed-tokens')? 'active' : null; ?>" href="asset-backed-tokens">Asset Backed Tokens</a>
 					</li>
 					<li class="mobile-menu__submenu-item">
-						<a class="mobile-menu__submenu-link <?php echo ($active_submenu == 'evaluation-report')? 'active' : null; ?>" href="evaluation_report">Evaluation report</a>
+						<a class="mobile-menu__submenu-link <?php echo ($active_submenu == 'security-tokens')? 'active' : null; ?>" href="security-tokens">Security Tokens</a>
+					</li>
+					<li class="mobile-menu__submenu-item">
+						<a class="mobile-menu__submenu-link <?php echo ($active_submenu == 'multisig-wallets')? 'active' : null; ?>" href="multisig-wallets">Multisig Wallets</a>
+					</li>
+					<li class="mobile-menu__submenu-item">
+						<a class="mobile-menu__submenu-link <?php echo ($active_submenu == 'bespoke-smart-contracts')? 'active' : null; ?>" href="bespoke-smart-contracts">Bespoke Development</a>
 					</li>
 				</ul>
--->
 			</li>
 			<li class="mobile-menu__item">
-				<a class="mobile-menu__link <?php echo ($active_submenu == 'token-sales')? 'active' : null; ?>" href="token_sales">Tokenization Advisory</a>
-<!--
+				<a class="mobile-menu__link <?php echo ($active_submenu == 'token-sales')? 'active' : null; ?>" href="token_sales">Token Sales</a>
 				<ul class="mobile-menu__submenu">
 					<li class="mobile-menu__submenu-item">
-						<a class="mobile-menu__submenu-link <?php echo ($active_submenu == 'token-engagement-process')? 'active' : null; ?>" href="token_engagement_process">Engagement process</a>
+						<a class="mobile-menu__submenu-link <?php echo ($active_submenu == 'initial-coin-offering')? 'active' : null; ?>" href="utility-token-sale">Utility Token Sale (ICO/TGE)</a>
 					</li>
 					<li class="mobile-menu__submenu-item">
-						<a class="mobile-menu__submenu-link <?php echo ($active_submenu == 'token-smart-contracts')? 'active' : null; ?>" href="token_smart_contracts">Token Smart Contracts</a>
-					</li>
-					<li class="mobile-menu__submenu-item">
-						<a class="mobile-menu__submenu-link <?php echo ($active_submenu == 'post-ico-services')? 'active' : null; ?>" href="post_ico_services">Post-ICO services</a>
+						<a class="mobile-menu__submenu-link <?php echo ($active_submenu == 'security-token-offering')? 'active' : null; ?>" href="security-token-offering">Security Token Offering (STO)</a>
 					</li>
 				</ul>
--->
-			</li>
-<!--
-			<li class="mobile-menu__item">
-				<a class="mobile-menu__link <?php echo ($active_submenu == 'crypto-funds')? 'active' : null; ?>" href="crypto_funds">Crypto Funds</a>
-			</li>
-			<li class="mobile-menu__item">
-				<a class="mobile-menu__link <?php echo ($active_submenu == 'investor-services')? 'active' : null; ?>" href="investor_services">Investors</a>
 			</li>
 			<li class="mobile-menu__item">
 				<a class="mobile-menu__link <?php echo ($active_submenu == 'advisory')? 'active' : null; ?>" href="advisory">Advisory</a>
 			</li>
--->
 			<li class="mobile-menu__item">
 				<a class="mobile-menu__link <?php echo ($active_submenu == 'company')? 'active' : null; ?>" href="company">Company</a>
 				<ul class="mobile-menu__submenu">
