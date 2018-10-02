@@ -33,14 +33,10 @@ $custom_og = '
 	<div class="container section-grey__container">
 		<h2 class="heading-2">Our services</h2>
 		<ul class="overline-box">
-			<li><a class="overline-box__link" href="token_sales">Tokenization advisory</a></li>
 			<li><a class="overline-box__link" href="gbx_sponsor_firm">Sponsor Firm: GBX Listing</a></li>
-			<li><a class="overline-box__link" href="evaluation_report">Project Analysis and Due Diligence</a></li>
-<!--
-			<li><a class="overline-box__link" href="crypto_funds">Services for Crypto Funds</a></li>
-			<li><a class="overline-box__link" href="crypto_funds">Digital Asset Management</a></li>
-			<li><a class="overline-box__link" href="investor_services">Investor support</a></li>
--->
+			<li><a class="overline-box__link" href="smart-contracts">Smart Contracts Development</a></li>
+			<li><a class="overline-box__link" href="token_sales">Token Sales</a></li>
+			<li><a class="overline-box__link" href="advisory">Blockchain Advisory</a></li>
 		</ul>
 	</div>
 </section>
