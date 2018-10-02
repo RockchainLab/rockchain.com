@@ -16,7 +16,7 @@ $custom_og = '
 <section class="section-hero hero-illustration hero-illustration-1">
 	<div class="container section-hero__container">
 		<?php include 'menu.php'; ?>
-		<h1 class="heading-1">Offering advisory and integrity for the <span class="highlight">Tokenized Economy</span>.</h1>
+		<h1 class="heading-1">Servicing the <span class="highlight">Tokenized Economy</span> with integrity.</h1>
 	</div>
 </section>
 <section class="section-white">
