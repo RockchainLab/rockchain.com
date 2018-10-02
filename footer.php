@@ -17,34 +17,43 @@
 					</ul>
 				</li>
 				<li class="footer__link-column">
-					<a class="footer__link" href="token_sales">Tokens</a>
+					<a class="footer__link" href="token_sales">Smart Contracts</a>
 					<ul class="footer__submenu">
-<!--
 						<li class="footer__submenu-item">
-							<a class="footer__submenu-link" href="token_engagement_process">Engagement process</a>
+							<a class="footer__submenu-link" href="utility-tokens">Utility Tokens</a>
 						</li>
--->
 						<li class="footer__submenu-item">
-							<a class="footer__submenu-link" href="token_smart_contracts">Smart Contracts</a>
+							<a class="footer__submenu-link" href="asset-backed-tokens">Asset Backed Tokens</a>
 						</li>
-<!--
 						<li class="footer__submenu-item">
-							<a class="footer__submenu-link" href="post_ico_services">Post-ICO services</a>
+							<a class="footer__submenu-link" href="security-tokens">Security Tokens</a>
 						</li>
--->
+						<li class="footer__submenu-item">
+							<a class="footer__submenu-link" href="multisig-wallets">Multi-Sig Wallets</a>
+						</li>
+						<li class="footer__submenu-item">
+							<a class="footer__submenu-link" href="bespoke-smart-contracts">Bespoke Smart Contracts</a>
+						</li>
 					</ul>
 				</li>
-<!--
 				<li class="footer__link-column">
-					<a class="footer__link" href="crypto_funds">Crypto Funds</a>
+					<a class="footer__link" href="token_sales">Token Sales</a>
+					<ul class="footer__submenu">
+						<li class="footer__submenu-item">
+							<a class="footer__submenu-link" href="utility-token-sale">Utility Token Sale (ICO/TGE)</a>
+						</li>
+						<li class="footer__submenu-item">
+							<a class="footer__submenu-link" href="security-token-offering">Security Token Offering (STO)</a>
+						</li>
+						<li class="footer__submenu-item">
+							<a class="footer__submenu-link" href="post_sale_services">Post Token Sale services</a>
+						</li>
+					</ul>
 				</li>
-				<li class="footer__link-column">
-					<a class="footer__link" href="investor_services">Investors</a>
-				</li>
+
 				<li class="footer__link-column">
 					<a class="footer__link" href="advisory">Advisory</a>
 				</li>
--->
 				<li class="footer__link-column">
 					<a class="footer__link" href="company">Company</a>
 					<ul class="footer__submenu">
