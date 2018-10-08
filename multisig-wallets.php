@@ -78,7 +78,7 @@ $custom_og = '
 				<p class="paragraph-1">Multisignature Wallets are used to divide the responsibility for digital assets, removing a single point of failure, reducing potential attack vectors and generally increasing the overall security of your digital management processes.</p>
 				<p class="paragraph-1">Every transaction (e.g. transfer of a token) from the wallet will reuire a predefined number of transactions (X) out of the total number of signatories (Y). Authorized parties have to cooperate in order to successfully transfer digital assets.</p>
 				<p class="paragraph-1">Rockchain can assist you in designing your multi-signature processes, deploy the wallet and train your staff.</p>
-				<a class="typeform-share button-cta" href="https://rockchain.typeform.com/to/G6TkWd" data-mode="drawer_left" target="_blank">Contact</a>
+				<a class="typeform-share button-cta" href="https://rockchain.typeform.com/to/v0t5hW" data-mode="drawer_left" target="_blank">Contact</a>
 			</div>
 		</div>
 	</div>
