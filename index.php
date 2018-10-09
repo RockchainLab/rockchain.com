@@ -42,7 +42,27 @@ $custom_og = '
 <section class="section-white">
     <div class="container section-white__container">
         <h2 class="heading-2">News</h2>
-        <div class="blog-feed"></div>
+        <div class="blog-feed">
+					<div class="blog-feed__post">
+						<a href="" class="blog-feed__thumbnail" style="background-image: url(i/rc-gbx.jpg);"></a>
+						<div class="blog-feed__text-wrapper">
+							<h3 class="blog-feed__heading"><a class="blog-feed__heading-link" href="">Rockchain announced as GBX Sponsor</a></h3>
+							<div class="blog-feed__metadata">By Rockchain on May 2nd 2018</div>
+							<div class="blog-feed__copy">Rockchain was announced today as a Sponsor Firm approved by the Gibraltar Blockchain Exchange (GBX). The GBX aims to be a world-leading institutional-grade token sale platform and cryptocurrency exchange.
+								<br /><a href="news/rockchain-announced-gbx-sponsor.php">Read the Rockchain GBX Sponsor announcment here.</a></div>
+						</div>
+					</div>
+
+					<div class="blog-feed__post">
+						<a href="" class="blog-feed__thumbnail" style="background-image: url(i/rc-gbx.jpg);"></a>
+						<div class="blog-feed__text-wrapper">
+							<h3 class="blog-feed__heading"><a class="blog-feed__heading-link" href="">Rockchain announced as GBX Sponsor</a></h3>
+							<div class="blog-feed__metadata">By Rockchain on May 2nd 2018</div>
+							<div class="blog-feed__copy">Rockchain was announced today as a Sponsor Firm approved by the Gibraltar Blockchain Exchange (GBX). The GBX aims to be a world-leading institutional-grade token sale platform and cryptocurrency exchange.
+								<br /><a href="news/2018-05-02_rockchain-announced-gbx-sponsor.php">Read the Rockchain GBX Sponsor announcment here.</a></div>
+						</div>
+					</div>
+				</div>
     </div>
 </section>
 <?php include 'footer.php'; ?>
