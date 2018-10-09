@@ -36,7 +36,6 @@ $custom_og = '
 			<li><a class="overline-box__link" href="gbx_sponsor_firm">Sponsor Firm: GBX Listing</a></li>
 			<li><a class="overline-box__link" href="smart-contracts">Smart Contracts Development</a></li>
 			<li><a class="overline-box__link" href="token_sales">Token Sales</a></li>
-			<li><a class="overline-box__link" href="advisory">Blockchain Advisory</a></li>
 		</ul>
 	</div>
 </section>
