@@ -18,19 +18,15 @@
 	<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
 <? echo $custom_meta;?>
 	<meta name="author" content="Rockchain.com" />
-	<link rel="icon" href="i/favico.png" type="image/png" />
+	<link rel="icon" href="/i/favico.png" type="image/png" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
 	<meta name="format-detection" content="telephone=no" />
 
-	<!-- FONTS -->
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:700|Open+Sans:400,600,700" rel="stylesheet">
 
-	<!-- CSS -->
-	<link rel="stylesheet" type="text/css" href="scss/main.css" />
+	<link rel="stylesheet" type="text/css" href="/scss/main.css" />
 
-	<!-- JS -->
-	<script src="js/jquery.js"></script>
-	<script src="js/functions.js"></script>
+	<script src="/js/functions.js"></script>
 
 	<!-- OG GRAPH -->
 <? echo $custom_og;?>
