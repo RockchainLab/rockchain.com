@@ -40,7 +40,7 @@
 					<a class="footer__link" href="token_sales">Token Sales</a>
 					<ul class="footer__submenu">
 						<li class="footer__submenu-item">
-							<a class="footer__submenu-link" href="utility-token-sale">Utility Token Sale (ICO/TGE)</a>
+							<a class="footer__submenu-link" href="utility-token-sale">Utility Token Sale</a>
 						</li>
 						<li class="footer__submenu-item">
 							<a class="footer__submenu-link" href="security-token-offering">Security Token Offering (STO)</a>
