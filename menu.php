@@ -31,7 +31,7 @@
 			<a class="main-menu__link <?php echo ($active == 'token-sales')? 'active' : null; ?>" href="token_sales">Token Sales</a>
 			<ul class="main-menu__submenu">
 				<li class="main-menu__submenu-item">
-					<a class="main-menu__submenu-link" href="utility-token-sale">Utility Token Sale (ICO/TGE)</a>
+					<a class="main-menu__submenu-link" href="utility-token-sale">Utility Token Sale</a>
 				</li>
 				<li class="main-menu__submenu-item">
 					<a class="main-menu__submenu-link" href="security-token-offering">Security Token Offering (STO)</a>
@@ -86,7 +86,7 @@
 				<a class="mobile-menu__link <?php echo ($active_submenu == 'token-sales')? 'active' : null; ?>" href="token_sales">Token Sales</a>
 				<ul class="mobile-menu__submenu">
 					<li class="mobile-menu__submenu-item">
-						<a class="mobile-menu__submenu-link <?php echo ($active_submenu == 'initial-coin-offering')? 'active' : null; ?>" href="utility-token-sale">Utility Token Sale (ICO/TGE)</a>
+						<a class="mobile-menu__submenu-link <?php echo ($active_submenu == 'initial-coin-offering')? 'active' : null; ?>" href="utility-token-sale">Utility Token Sale</a>
 					</li>
 					<li class="mobile-menu__submenu-item">
 						<a class="mobile-menu__submenu-link <?php echo ($active_submenu == 'security-token-offering')? 'active' : null; ?>" href="security-token-offering">Security Token Offering (STO)</a>
