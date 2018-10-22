@@ -22,8 +22,9 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
 	<meta name="format-detection" content="telephone=no" />
 
-  <link rel="preload" href="https://fonts.googleapis.com/css?family=Montserrat:700|Open+Sans:400,600,700" as="style" onload="this.rel='stylesheet'">
-  <link rel="preload" href="/scss/main.css" as="style" onload="this.rel='stylesheet'">
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:700|Open+Sans:400,600,700" rel="stylesheet" />
+
+	<link rel="stylesheet" type="text/css" href="/scss/main.css" />
 
   <script src="/js/jquery.js" async></script>
 	<script src="/js/functions.js" async></script>

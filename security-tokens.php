@@ -129,7 +129,7 @@ $custom_og = '
 			<h6 class="question-wrapper__question">Code Audit</h6>
 			<div class="question-wrapper__answer">
         <h3>Audit preparation</h3>
-				<p>An audit should be conducted by a reputable, independent third party. We’ll work closely with your Code Auditor, to ensure a smooth and seamless auditing processes.</p>
+				<p>An audit should be conducted prior deployment on the main net (e.g. Ethereum) by a reputable, independent third party. We’ll work closely with your Code Auditor, to ensure a smooth and seamless auditing processes.</p>
         <h3>Audit feedback implementation</h3>
         <p>We’ll carefully analyse and process feedback received from your auditor and implement it into the code.</p>
 			</div>
