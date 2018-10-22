@@ -46,7 +46,7 @@ $custom_og = '
 		<div class="row-3 paragraphs">
 			<div class="box-8 box-m-12">
 				<h2 class="heading-2">Mission &amp; Team</h2>
-				<p class="paragraph-1">Rockchain is a consulting and crypto fund management business in the exciting and incredibly dynamic Crypto Economy.  We believe the opportunities for those who can successfully leverage the technology and increasing investment in this space are enormous. We are advising on a selective basis, choosing quality over quantity in terms of our clients and partners and with a view to building a portfolio of interests that create huge synergy value for participants.</p>
+				<p class="paragraph-1">Rockchain is a consulting business in the exciting and incredibly dynamic Crypto Economy.  We believe the opportunities for those who can successfully leverage the technology and increasing investment in this space are enormous. We are advising on a selective basis, choosing quality over quantity in terms of our clients and partners and with a view to building a portfolio of interests that create huge synergy value for participants.</p>
 			</div>
 		</div>
 	</div>
