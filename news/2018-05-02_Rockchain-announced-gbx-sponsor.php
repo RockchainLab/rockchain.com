@@ -20,7 +20,7 @@ $custom_og = '
 	<div class="container section-white__container">
 		<div class="blog-article">
 			<h1>Rockchain became an Approved Sponsor Firm of the GBX</h1>
-			<p class="blog-article__date">Published on May 2nd 2018</p>
+			<p class="blog-article__date">Published on May 2nd, 2018</p>
 			<img src="../i/rc-gbx-large.jpg">
 			<p><a href="https://rockchain.com/">Rockchain Limited</a> was announced today as a Sponsor Firm approved by the <a href="https://gbx.gi/" target="_blank">Gibraltar Blockchain Exchange</a> (GBX). The GBX aims to be a world-leading institutional-grade token sale platform and cryptocurrency exchange.</p>
 			<p>Token Sales have become a dominant way to raise funds. Combining the community focused low barrier fundraising of a crowdfunding campaign and, by leveraging the power of the blockchain, Token Sales give early stage technology businesses access to funding whilst simultaneously building a consumer base and enabling the development of disruptive initiatives.</p>
