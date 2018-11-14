@@ -1044,7 +1044,7 @@ h1, h2, h3, h4, h5, h6{
 	margin-left: auto;
 	margin-right: auto;
 	h1{
-		margin-bottom: px(50);
+		margin-bottom: px(15);
 		max-width: px(600);
 		color: $dark-blue;
 		font-size: px(36);
@@ -1068,6 +1068,24 @@ h1, h2, h3, h4, h5, h6{
 		display: block;
 		margin-top: px(50);
 		margin-bottom: px(50);
+	}
+	.blog-article__date{
+		margin-bottom: px(50);
+		color: $dark-blue;
+		font-size: 14px;
+		padding-left: px(20);
+		position: relative;
+		box-sizing: border-box;
+		&:before{
+			position: absolute;
+			left: 0;
+			top: 50%;
+			display: block;
+			content: '';
+			width: px(14);
+			height: 2px;
+			background: $green;
+		}
 	}
 	&__quote{
 		font-style: italic;
