@@ -27,7 +27,7 @@
 				</li>
 			</ul>
 		</li>
-		<li class="main-menu__item">
+		<!-- <li class="main-menu__item">
 			<a class="main-menu__link <?php echo ($active == 'token-sales')? 'active' : null; ?>" href="token_sales">Token Sales</a>
 			<ul class="main-menu__submenu">
 				<li class="main-menu__submenu-item">
@@ -37,7 +37,7 @@
 					<a class="main-menu__submenu-link" href="security-token-offering">Security Token Offering (STO)</a>
 				</li>
 			</ul>
-		</li>
+		</li> -->
 		<li class="main-menu__item">
 			<a class="main-menu__link <?php echo ($active == 'company')? 'active' : null; ?>" href="company">Company</a>
 			<ul class="main-menu__submenu">
@@ -82,7 +82,7 @@
 					</li>
 				</ul>
 			</li>
-			<li class="mobile-menu__item">
+			<!-- <li class="mobile-menu__item">
 				<a class="mobile-menu__link <?php echo ($active_submenu == 'token-sales')? 'active' : null; ?>" href="token_sales">Token Sales</a>
 				<ul class="mobile-menu__submenu">
 					<li class="mobile-menu__submenu-item">
@@ -92,7 +92,7 @@
 						<a class="mobile-menu__submenu-link <?php echo ($active_submenu == 'security-token-offering')? 'active' : null; ?>" href="security-token-offering">Security Token Offering (STO)</a>
 					</li>
 				</ul>
-			</li>
+			</li> -->
 			<li class="mobile-menu__item">
 				<a class="mobile-menu__link <?php echo ($active_submenu == 'company')? 'active' : null; ?>" href="company">Company</a>
 				<ul class="mobile-menu__submenu">
