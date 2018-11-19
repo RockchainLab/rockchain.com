@@ -36,7 +36,7 @@
 						</li>
 					</ul>
 				</li>
-				<li class="footer__link-column">
+				<!-- <li class="footer__link-column">
 					<a class="footer__link" href="token_sales">Token Sales</a>
 					<ul class="footer__submenu">
 						<li class="footer__submenu-item">
@@ -49,7 +49,7 @@
 							<a class="footer__submenu-link" href="post_sale_services">Post Token Sale services</a>
 						</li>
 					</ul>
-				</li>
+				</li> -->
 
 				<li class="footer__link-column">
 					<a class="footer__link" href="company">Company</a>
@@ -67,7 +67,7 @@
 				</li>
 			</ul>
 			<div class="footer__copy">
-				<p class="footer__copy-text">&copy; 2018 Rockchain</p>
+				<p class="footer__copy-text">&copy; 2017-2018 Rockchain</p>
 			</div>
 			<p class="footer_legal">Rockchain Ltd., World Trade Centre, 3.20<br />6, Bayside Road, GX11 1AA, Gibraltar<br />Rockchain is a registered Community Trade Mark.</p>
 			<ul class="social-icons">
