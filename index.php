@@ -49,7 +49,7 @@ $custom_og = '
 						<div class="blog-feed__text-wrapper">
 							<h3 class="blog-feed__heading"><a class="blog-feed__heading-link" href="news/2018-11-14_Rockchain-partners-with-Amazix">Rockchain partners with AmaZix</a></h3>
 							<div class="blog-feed__metadata">By Rockchain on November 14th 2018</div>
-							<div class="blog-feed__copy">Rockchain joined forces with fellow GBX Sponsor firm AmaZix for Community Management services.
+							<div class="blog-feed__copy">A fellow GBX sponsor firm AmaZix has joined forces with Rockchain to bring more transparency to the Smart Contract related services.
 								<p><br /><a href="news/2018-11-14_Rockchain-partners-with-Amazix">Full article</a></p></div>
 						</div>
 					</div>
