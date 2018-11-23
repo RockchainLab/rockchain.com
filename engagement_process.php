@@ -1,7 +1,7 @@
 <?
 $title = "Rockchain Engagement Process";
 $custom_meta = '
-<meta name="keywords" content="Rockchain, Advisory, Consulting, Engagement" />
+<meta name="keywords" content="Rockchain, Advisory, Consulting" />
 <meta name="description" content="Learn how Rockchain provides services to our clients in our documented Engagement process." />
 <meta name="robots" content="index, follow" />';
 
