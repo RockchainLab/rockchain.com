@@ -3,8 +3,11 @@
 			<a class="footer__logo" href="/"></a>
 			<ul class="footer__link-list">
 				<li class="footer__link-column">
+					<a class="footer__link" href="tokenized-securities">Tokenized Securities</a>
+				</li>
+				<li class="footer__link-column">
 					<a class="footer__link" href="gbx_sponsor_firm">GBX Sponsor Firm</a>
-					<ul class="footer__submenu">
+					<!-- <ul class="footer__submenu">
 						<li class="footer__submenu-item">
 							<a class="footer__submenu-link" href="about_gbx">About GBX</a>
 						</li>
@@ -14,11 +17,11 @@
 						<li class="footer__submenu-item">
 							<a class="footer__submenu-link" href="evaluation_report">Evaluation report</a>
 						</li>
-					</ul>
+					</ul> -->
 				</li>
 				<li class="footer__link-column">
 					<a class="footer__link" href="token_sales">Smart Contracts</a>
-					<ul class="footer__submenu">
+					<!-- <ul class="footer__submenu">
 						<li class="footer__submenu-item">
 							<a class="footer__submenu-link" href="utility-tokens">Utility Tokens</a>
 						</li>
@@ -34,26 +37,11 @@
 						<li class="footer__submenu-item">
 							<a class="footer__submenu-link" href="bespoke-smart-contracts">Bespoke Smart Contracts</a>
 						</li>
-					</ul>
+					</ul> -->
 				</li>
-				<!-- <li class="footer__link-column">
-					<a class="footer__link" href="token_sales">Token Sales</a>
-					<ul class="footer__submenu">
-						<li class="footer__submenu-item">
-							<a class="footer__submenu-link" href="utility-token-sale">Utility Token Sale</a>
-						</li>
-						<li class="footer__submenu-item">
-							<a class="footer__submenu-link" href="security-token-offering">Security Token Offering (STO)</a>
-						</li>
-						<li class="footer__submenu-item">
-							<a class="footer__submenu-link" href="post_sale_services">Post Token Sale services</a>
-						</li>
-					</ul>
-				</li> -->
-
 				<li class="footer__link-column">
 					<a class="footer__link" href="company">Company</a>
-					<ul class="footer__submenu">
+					<!-- <ul class="footer__submenu">
 						<li class="footer__submenu-item">
 							<a class="footer__submenu-link" href="careers">Careers</a>
 						</li>
@@ -63,7 +51,7 @@
 						<li class="footer__submenu-item">
 							<a class="footer__submenu-link typeform-share" href="https://rockchain.typeform.com/to/G6TkWd" data-mode="drawer_left" target="_blank">Contact</a>
 						</li>
-					</ul>
+					</ul> -->
 				</li>
 			</ul>
 			<div class="footer__copy">
