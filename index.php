@@ -54,8 +54,8 @@ $custom_og = '
 		</div>
 		<div class="row">
 		<ul class="overline-box">
-			<li><a class="overline-box__link" href="http://www.tokentransparency.net" target="_blank">Token Transparency</a>A monitoring service observing token transactions across the Ethereum netowrk.</li>
 			<li><a class="overline-box__link" href="#">Rockproof</a>A privacy-centric timestamping solution, removing reliance on a 3rd party while maintaining irrefutable, publicly verifiable proof of data integrity.</li>
+			<li><a class="overline-box__link" href="http://www.tokentransparency.net" target="_blank">Token Transparency</a>A monitoring service observing token transactions across the Ethereum netowrk.</li>
 			<li><a class="overline-box__link" href="#">Token Testing Facility</a>Validation of Token and other Smart Contracts functionality for compliance with intended prupose and specification.</li>
 		</ul>
 		</div>
