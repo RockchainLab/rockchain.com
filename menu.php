@@ -5,19 +5,22 @@
 			<a class="main-menu__link <?php echo ($active == 'home')? 'active' : null; ?>" href="/">Home</a>
 		</li-->
 		<li class="main-menu__item">
+			<a class="main-menu__link <?php echo ($active == 'tokenized-securities')? 'active' : null; ?>" href="tokenized-securities">Tokenized Securities (STOs)</a>
+		</li>
+		<li class="main-menu__item">
 			<a class="main-menu__link <?php echo ($active == 'gbx-sponsor-firm')? 'active' : null; ?>" href="gbx_sponsor_firm">GBX Sponsor Firm</a>
 		</li>
 		<li class="main-menu__item">
 			<a class="main-menu__link <?php echo ($active == 'smart-contracts')? 'active' : null; ?>" href="smart-contracts">Smart Contracts</a>
 			<ul class="main-menu__submenu">
 				<li class="main-menu__submenu-item">
-					<a class="main-menu__submenu-link" href="utility-tokens">Utility Tokens</a>
-				</li>
-				<li class="main-menu__submenu-item">
 					<a class="main-menu__submenu-link" href="asset-backed-tokens">Asset Backed Tokens</a>
 				</li>
 				<li class="main-menu__submenu-item">
 					<a class="main-menu__submenu-link" href="security-tokens">Security Tokens</a>
+				</li>
+				<li class="main-menu__submenu-item">
+					<a class="main-menu__submenu-link" href="utility-tokens">Utility Tokens</a>
 				</li>
 				<li class="main-menu__submenu-item">
 					<a class="main-menu__submenu-link" href="multisig-wallets">Multi-Sig Wallets</a>
@@ -27,17 +30,6 @@
 				</li>
 			</ul>
 		</li>
-		<!-- <li class="main-menu__item">
-			<a class="main-menu__link <?php echo ($active == 'token-sales')? 'active' : null; ?>" href="token_sales">Token Sales</a>
-			<ul class="main-menu__submenu">
-				<li class="main-menu__submenu-item">
-					<a class="main-menu__submenu-link" href="utility-token-sale">Utility Token Sale</a>
-				</li>
-				<li class="main-menu__submenu-item">
-					<a class="main-menu__submenu-link" href="security-token-offering">Security Token Offering (STO)</a>
-				</li>
-			</ul>
-		</li> -->
 		<li class="main-menu__item">
 			<a class="main-menu__link <?php echo ($active == 'company')? 'active' : null; ?>" href="company">Company</a>
 			<ul class="main-menu__submenu">
@@ -59,6 +51,9 @@
 			<!--li class="mobile-menu__item">
 				<a class="mobile-menu__link <?php echo ($active_submenu == 'home')? 'active' : null; ?>" href="/">Home</a>
 			</li-->
+			<li class="mobile-menu__item">
+				<a class="mobile-menu__link <?php echo ($active_submenu == 'tokenized-securities')? 'active' : null; ?>" href="tokenized-securities">Tokenized Securities (STOs)</a>
+			</li>
 			<li class="mobile-menu__item">
 				<a class="mobile-menu__link <?php echo ($active_submenu == 'gbx-sponsor-firm')? 'active' : null; ?>" href="gbx_sponsor_firm">GBX Sponsor Firm</a>
 			</li>
@@ -82,17 +77,6 @@
 					</li>
 				</ul>
 			</li>
-			<!-- <li class="mobile-menu__item">
-				<a class="mobile-menu__link <?php echo ($active_submenu == 'token-sales')? 'active' : null; ?>" href="token_sales">Token Sales</a>
-				<ul class="mobile-menu__submenu">
-					<li class="mobile-menu__submenu-item">
-						<a class="mobile-menu__submenu-link <?php echo ($active_submenu == 'initial-coin-offering')? 'active' : null; ?>" href="utility-token-sale">Utility Token Sale</a>
-					</li>
-					<li class="mobile-menu__submenu-item">
-						<a class="mobile-menu__submenu-link <?php echo ($active_submenu == 'security-token-offering')? 'active' : null; ?>" href="security-token-offering">Security Token Offering (STO)</a>
-					</li>
-				</ul>
-			</li> -->
 			<li class="mobile-menu__item">
 				<a class="mobile-menu__link <?php echo ($active_submenu == 'company')? 'active' : null; ?>" href="company">Company</a>
 				<ul class="mobile-menu__submenu">
