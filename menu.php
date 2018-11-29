@@ -59,7 +59,7 @@
 			</li>
 			<li class="mobile-menu__item">
 				<a class="mobile-menu__link <?php echo ($active_submenu == 'smart-contracts')? 'active' : null; ?>" href="smart-contracts">Smart Contracts</a>
-				<ul class="mobile-menu__submenu">
+				<!-- <ul class="mobile-menu__submenu">
 					<li class="mobile-menu__submenu-item">
 						<a class="mobile-menu__submenu-link <?php echo ($active_submenu == 'utility-tokens')? 'active' : null; ?>" href="utility-tokens">Utility Tokens</a>
 					</li>
@@ -75,7 +75,7 @@
 					<li class="mobile-menu__submenu-item">
 						<a class="mobile-menu__submenu-link <?php echo ($active_submenu == 'bespoke-smart-contracts')? 'active' : null; ?>" href="bespoke-smart-contracts">Bespoke Development</a>
 					</li>
-				</ul>
+				</ul> -->
 			</li>
 			<li class="mobile-menu__item">
 				<a class="mobile-menu__link <?php echo ($active_submenu == 'company')? 'active' : null; ?>" href="company">Company</a>

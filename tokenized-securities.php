@@ -27,11 +27,29 @@ $custom_og = '
 				<p class="paragraph-1">The ‘tokenization of securities’ is an important next step for the Token Economy and wider financial markets.</p>
 			</div>
 			<div class="box-6">
-				<p class="paragraph-1">The tokenization of a security or asset, is a process to allow potentially faster, cheaper and more programmable formats of the underlying asset or instrument to be transferable between eligible parties within a ‘digital wrapper’.</p>
+                <p class="paragraph-1">The tokenization of a security or asset, is a process to allow potentially faster, cheaper and more programmable formats of the underlying asset or instrument to be transferable between eligible parties within a ‘digital wrapper’.</p>
 			</div>
         </div>
-        <div align="center">
-            <img src="i/tokenized-securities.png" />
+		<div class="row-3">
+			<div class="box-6">
+                <h3 class="heading-3" style="margin:15px">Using the technology...</h3>
+                <ul class="point-list">
+                    <li>To expand the options for designing and trading securities</li>
+                    <li>Fractionalize and Tokenize a range of Assets</li>
+                    <li>Building on the demand and interest shown from ICO phase 1</li>
+                    <li>Using existing Securities Regulations</li>
+                    <li>Creating new efficiencies (speed, cost) in the process</li>
+                </ul>
+			</div>
+			<div class="box-6">
+                <h3 class="heading-3" style="margin:15px">...to create new value and markets</h3>
+                <ul class="point-list">
+                    <li>Create new liquidity and ‘untrap’ value in a wide variety of existing assets</li>
+                    <li>Aid the emergence of new asset classes</li>
+                    <li>Enabling more types of investors to participate on a regulated basis</li>
+                    <li>Needed:  the regulated exchanges to trade 24/7  - new, existing ones</li>
+                </ul>
+			</div>
         </div>
 	</div>
 </section>
