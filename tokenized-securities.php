@@ -72,11 +72,11 @@ $custom_og = '
 			<div class="question-wrapper__answer">
 				<p>Undertaking an STO without legal, technology and investment advisors who are coordinated in the delivery of the process is unlikely to succeed. In short:</p>
 				<ul>
-                    <li style="margin: 0 0 6px 0;">The asset and the terms on which the investment opportunity is offered, should first be attractive to the target eligible investors.</li>
-                    <li style="margin: 0 0 6px 0;">The issuer and its advisers must be confident that the rights it offers can be delivered and that the issue is in line with its business strategy.</li>
-                    <li style="margin: 0 0 6px 0;">Tokenizing debt, equity, or the sorts of rights normally associated with shares in a company or fund are regulated activities. Existing securities laws and those relating to collective investment schemes, alternative investment funds and more, may apply. Issuers must invest early in appropriate legal advice  - in the jurisdiction of the issuing entity and from the perspective of where the offer is being promoted and for the types of investor targeted - accredited, institutional, retail and with respect to any exempt offerings or other routes to a legally compliant offering.</li>
-                    <li style="margin: 0 0 6px 0;">The technology and processes must then enshrine and facilitate consistently the rights, restrictions and parameters that apply to the underlying asset.</li>
-                    <li style="margin: 0 0 6px 0;">The processes associated with maintaining the digital asset, associated documentation and enabling transferability (peer-to-peer, OTC or Exchange) must be supported and managed.</li>
+                    <li style="margin: 0 0 6px 25px;">The asset and the terms on which the investment opportunity is offered, should first be attractive to the target eligible investors.</li>
+                    <li style="margin: 0 0 6px 25px;">The issuer and its advisers must be confident that the rights it offers can be delivered and that the issue is in line with its business strategy.</li>
+                    <li style="margin: 0 0 6px 25px;">Tokenizing debt, equity, or the sorts of rights normally associated with shares in a company or fund are regulated activities. Existing securities laws and those relating to collective investment schemes, alternative investment funds and more, may apply. Issuers must invest early in appropriate legal advice  - in the jurisdiction of the issuing entity and from the perspective of where the offer is being promoted and for the types of investor targeted - accredited, institutional, retail and with respect to any exempt offerings or other routes to a legally compliant offering.</li>
+                    <li style="margin: 0 0 6px 25px;">The technology and processes must then enshrine and facilitate consistently the rights, restrictions and parameters that apply to the underlying asset.</li>
+                    <li style="margin: 0 0 6px 25px;">The processes associated with maintaining the digital asset, associated documentation and enabling transferability (peer-to-peer, OTC or Exchange) must be supported and managed.</li>
                 </ul>
 			</div>
 		</div>
