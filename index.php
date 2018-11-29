@@ -23,7 +23,7 @@ $custom_og = '
 	<div class="container section-white__container">
 		<!-- <h2 class="heading-2">We are at the crossroad of Technology, Finance and Regulations</h2> -->
 		<div class="row">
-			<i>Rockchain supports businesses and investors in version 2.0 of the Token Economy interested in transparency, integrity and a sound token-to-market strategy. We leverage our deep understanding of the Token ecosystem and our legal, financial and technical experience of the Distributed Ledger Technology.</i>
+			Rockchain supports businesses and investors in version 2.0 of the Token Economy interested in transparency, integrity and a sound token-to-market strategy. We leverage our deep understanding of the Token ecosystem and our legal, financial and technical experience of the Distributed Ledger Technology.
 		</div>
 	</div>
 </section>
@@ -41,7 +41,7 @@ $custom_og = '
 	<div class="container section-grey__container">
 		<h2 class="heading-2">Our Trustware Products</h2>
 		<div class="row">
-			<i>In a world where Code is (an expression of) law, how do non-coders know that the code matches their rights/expectations ?</i><br /><br />
+			In a world where Code is (an expression of) law, how do non-coders know that the code matches their rights/expectations ?<br /><br />
 		</div>
 		<div class="row">
 			<div class="box-6 box-m-12">
