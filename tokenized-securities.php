@@ -82,14 +82,14 @@ $custom_og = '
 		</div>
 	</div>
 </section>
-<section class="section-grey">
+<!-- <section class="section-grey">
 	<div class="container section-grey__container">
 		<h2 class="heading-2">Some of our Partners</h2>
 		<ul class="overline-box">
             <li><a class="overline-box__link" href="http://www.rhtlawtaylorwessing.com/"><img src='i/RHTLaw.png' /></a></li>
-            <!-- <li><a class="overline-box__link" href="https://www.mishcon.com/"><img src='i/Mishcon.png' /></a></li> -->
+            <li><a class="overline-box__link" href="https://www.mishcon.com/"><img src='i/Mishcon.png' /></a></li>
 			<li><a class="overline-box__link" href="https://inveniam.capital/"><img src='i/Inveniam.png' /></a></li>
 		</ul>
 	</div>
-</section>
+</section> -->
 <?php include 'footer.php'; ?>
