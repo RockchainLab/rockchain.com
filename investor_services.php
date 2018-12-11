@@ -26,7 +26,7 @@ $custom_og = '
 			<div class="box-6 box-s-margin">
 				<p class="paragraph-1">There are many opportunities to capitalize on with respect to this emerging technology. We constantly monitor the trends and developments in multiple verticals and advances in the Distributed Ledger Technology applications.</p>
 				<p class="paragraph-1">If you are considering investing into a particular vertical, fund or an individual project, we can help you understand the opportunity in the wider context of the industry and properly assess the risks and potential returns.</p>
-				<a class="typeform-share button-cta" href="https://rockchain.typeform.com/to/G6TkWd" data-mode="drawer_left" target="_blank">Contact us</a>
+				<a class="typeform-share button-cta" href="https://goo.gl/forms/FSsvCCeeSORex60K3" data-mode="drawer_left" target="_blank">Contact us</a>
 			</div>
 			<div class="box-3 box-s-margin">
 				<ul class="point-list">

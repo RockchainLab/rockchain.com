@@ -66,7 +66,7 @@ $custom_og = '
 			<div class="box-6">
 				<p class="paragraph-1">Utility Tokens represent future access to a company’s product or service. The defining characteristic of utility tokens is that they are designed to prvide functionality and not as an investment - if properly structured, this feature exempts utility tokens from securities regulations.</p>
 				<p class="paragraph-1">Do you think you have a high quality project that would qualify for a Utility Token Sale?</p>
-				<a class="typeform-share button-cta" href="https://rockchain.typeform.com/to/G6TkWd" data-mode="drawer_left" target="_blank">Contact us</a>
+				<a class="typeform-share button-cta" href="https://goo.gl/forms/FSsvCCeeSORex60K3" data-mode="drawer_left" target="_blank">Contact us</a>
 			</div>
 		</div>
 	</div>

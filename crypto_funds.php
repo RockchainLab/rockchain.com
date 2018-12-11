@@ -66,7 +66,7 @@ $custom_og = '
 				<p class="paragraph-1">We then consolidate all data sources into one report and apply the right valuation model as defined in your DAM Valuation policy to every transaction to give the trade value per transaction.</p>
 				<p class="paragraph-1">We also produce a Custody report, indicating what amount of units of each asset shall be present at each storage provider at any given&nbsp;time.</p>
 				<p class="paragraph-1">The report can be used by Investment Manager, Directors and Administrators to verify the integrity of other reports (i.e. trading venues, blockchain transactions, etc.) and will make the fund reporting a more straightforward process and save you considerable time.</p>
-				<a class="typeform-share button-cta" href="https://rockchain.typeform.com/to/G6TkWd" data-mode="drawer_left" target="_blank">Contact us</a>
+				<a class="typeform-share button-cta" href="https://goo.gl/forms/FSsvCCeeSORex60K3" data-mode="drawer_left" target="_blank">Contact us</a>
 			</div>
 		</div>
 	</div>
