@@ -42,7 +42,7 @@
 			</ul>
 		</li>
 		<li class="main-menu__item">
-			<a class="main-menu__link typeform-share" href="https://rockchain.typeform.com/to/G6TkWd" data-mode="drawer_left" target="_blank">Contact</a>
+			<a class="main-menu__link typeform-share" href="https://goo.gl/forms/FSsvCCeeSORex60K3" data-mode="drawer_left" target="_blank">Contact</a>
 		</li>
 	</ul>
 	<button class="mobile-menu__trigger"></button>
@@ -89,7 +89,7 @@
 				</ul>
 			</li>
 			<li class="mobile-menu__item">
-				<a class="mobile-menu__link typeform-share" href="https://rockchain.typeform.com/to/G6TkWd" data-mode="drawer_left" target="_blank">Contact</a>
+				<a class="mobile-menu__link typeform-share" href="https://goo.gl/forms/FSsvCCeeSORex60K3" data-mode="drawer_left" target="_blank">Contact</a>
 			</li>
 		</ul>
 	</div>

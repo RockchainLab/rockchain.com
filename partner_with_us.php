@@ -47,7 +47,7 @@ $custom_og = '
 			<div class="box-8 box-m-12">
 				<h2 class="heading-2">Partner with us</h2>
 				<p class="paragraph-1">Rockchain is building a team of high quality advisers with blockchain, investment banking, technology, investment and compliance backgrounds and we continue to build partnerships with best-of-breed service providers that specialise in areas related to the crypto economy, blockchain, DLT and token sales.</p>
-				<a class="typeform-share button-cta" href="https://rockchain.typeform.com/to/G6TkWd" data-mode="drawer_left" target="_blank">Contact us</a>
+				<a class="typeform-share button-cta" href="https://goo.gl/forms/FSsvCCeeSORex60K3" data-mode="drawer_left" target="_blank">Contact us</a>
 			</div>
 		</div>
 	</div>
