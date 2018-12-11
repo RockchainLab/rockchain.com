@@ -68,7 +68,7 @@ $custom_og = '
 				<p class="paragraph-1">We work as an ‘extension to your management team’ in an advisory role - offering you specialist skills and experience relevant to the project and extra bandwidth towards an efficient delivery and successful outcome.</p>
 				<p class="paragraph-1">For a Token Offering, a variety of services need to be provided and coordinated and we knit together a ‘best-in-class’ team of providers which we believe best suits your project.</p>
 				<p class="paragraph-1">Projects vary and we may connect with you at different stages, so we prefer to understand more about your project before we confirm the scope of services we can offer.</p>
-				<a class="typeform-share button-cta" href="https://goo.gl/forms/FSsvCCeeSORex60K3" data-mode="drawer_left" target="_blank">Contact</a>
+				<a class="button-cta" href="https://goo.gl/forms/FSsvCCeeSORex60K3" target="_blank">Contact</a>
 			</div>
 		</div>
 	</div>

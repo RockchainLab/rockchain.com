@@ -66,7 +66,7 @@ $custom_og = '
 				<p class="paragraph-1">We see a future where shareholdings in all investments will migrate to the blockchain, providing better transparency, access and liquidity. These shareholdings solve administration problems, create greater options for capital formation, increase transparency and efficiency across all financial transactions allowing for secondary market liquidity.</p>
 				<p class="paragraph-1">Security token offerings (STOs) or <a href="asset-backed-tokens">Asset-backed Tokens</a> (ABTs) offer the promise of public market liquidity with private market returns.</p>
 				<p class="paragraph-1">Tokenized securities facilitate the transfer of such fractional ownership of traditionally illiquid assets. Contact us to help you with your STO!</p>
-				<a class="typeform-share button-cta" href="https://goo.gl/forms/FSsvCCeeSORex60K3" data-mode="drawer_left" target="_blank">Contact us</a>
+				<a class="button-cta" href="https://goo.gl/forms/FSsvCCeeSORex60K3" target="_blank">Contact us</a>
 			</div>
 		</div>
 	</div>
