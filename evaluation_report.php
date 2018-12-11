@@ -55,7 +55,7 @@ $custom_og = '
 				<p class="paragraph-1">We do a deep dive into your project to evaluate it against multiple relevant criteria and providing valuable recommendations for improving your project and chances of success in your Token Sale and the implementation of your roadmap. We will produce a high value report for your project team. Where you are considering a GBX listing, the report will also detail the compliance gaps and requirements you would need to attend to before you can apply for a GBX listing.</p>
 				<p class="paragraph-1">Production of this report is a prerequisite if you are considering Rockchain to become your Sponsor on the Exchange and we will help you implement mandatory compliance as well as other recommendations as may be suitable for your project and goals.</p>
 				<div class="button-holder">
-					<a class="typeform-share button-cta" href="https://goo.gl/forms/FSsvCCeeSORex60K3" data-mode="drawer_left" target="_blank">Order report</a>
+					<a class="button-cta" href="https://goo.gl/forms/FSsvCCeeSORex60K3" target="_blank">Order report</a>
 					<a class="button-regular" href="downloads/project_evaluation_report.pdf">Download sample report</a>
 				</div>
 			</div>
