@@ -161,7 +161,7 @@ $custom_og = '
 			</div>
     </div>
 		<div>
-				<img style="display: block; margin-left: auto; margin-right:auto;" style="align:center" src="i/SETS.png" />
+				<img style="display: block; width:100%; margin-left: auto; margin-right:auto;" src="i/SETS.png" />
 		</div>	
 </section>
 <section class="section-questions">
