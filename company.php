@@ -74,7 +74,7 @@ $custom_og = '
 						<h3 class="team-member__role">CTO and Tokenomics</h2>
 					</div>
 				</div>
-				<p>Marek advises clients on the blockchain and other technology options which are key to the viability and credibility of the project and on the tokenomics which are important for a successful token Sale and post sale ecosystem to thrive. He combines an appreciation of the capabilities of the blockchain technology and the opportunities created by the token economy, with real-world experience of software-driven products and services.</p>
+				<p>Marek advises clients on the blockchain and other technology options which are key to the viability and credibility of the project and tokenomics. He combines an appreciation of the capabilities of the blockchain technology and the opportunities created by the token economy, with real-world experience of software-driven products and services.</p>
 				<p>By background, Marek has C-level managerial experience spanning over the past 10 years, is a qualified IT System analyst, having completed Advanced Diploma in IT Systems Analysis & Design and the Blockchain Strategy Programme, both at the University of Oxford. Former software developer, architect & IT manager turned entrepreneur having co-founded technology-based startups in the areas of SME bookkeeping, online music entertainment and online gaming software.</p>
 			</div>
 		</div>
