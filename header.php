@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<script src="/js/jquery.js"></script>
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-118410299-1"></script>
 <script>
@@ -24,9 +25,7 @@
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:700|Open+Sans:400,600,700" rel="stylesheet" />
 
 	<link rel="stylesheet" type="text/css" href="/scss/main.css" />
-
-  <script src="/js/jquery.js" async></script>
-	<script src="/js/functions.js" async></script>
+	
 
 	<!-- OG GRAPH -->
 <? echo $custom_og;?>
