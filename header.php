@@ -18,7 +18,6 @@
 	<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
 <? echo $custom_meta;?>
 	<meta name="author" content="Rockchain.com" />
-	<link rel="icon" href="/i/favico.png" type="image/png" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
 	<meta name="format-detection" content="telephone=no" />
 
