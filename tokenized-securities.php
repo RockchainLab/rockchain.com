@@ -103,7 +103,7 @@ $custom_og = '
 			</div>
 		</div>
 		<div class="question-wrapper">
-			<h6 class="question-wrapper__question">It’s still has to appeal as an Investment</h6>
+			<h6 class="question-wrapper__question">It still has to appeal as an Investment</h6>
 			<div class="question-wrapper__answer">
 				<p>Tokenization or ‘doing’ an STO does not turn an ugly duckling into a swan. Put another way, ‘tokenization’ in and of itself does not turn create substantial new value where none existed before.</p>
 			</div>
@@ -180,8 +180,8 @@ $custom_og = '
 				<p>&nbsp;</p>
 			</li>
 			<li><strong>Property fractional ownership:</strong> Sell a building that has been or will be converted into apartments on a managed basis for fractional ownership with a modest minimum buy in enabling more people to participate in an asset that would not traditionally be available to them. <p>&nbsp;</p></li>
-			<li><strong>Employee incentives/rewards:</strong>These can be traded prior to an IPO or other liquidity event to create a new market when companies are staying private longer. E.g. Staff member A is awarded and vests tokens representing an equity interest and might want to sell these prior to a liquidity event to staff member B or, if permitted and where there is demand someone outside the organisation, at a discount to value to realise value now versus when the share value crystallises on a liquidity event.<p>&nbsp;</p></li>
-			<li><strong>Inheritance:</strong>Siblings inherit a high value piece of art that they don’t want to sell as it is an appreciating asset, but some of them want to release some of its value via a token sale and create ongoing transferability opportunities.<p>&nbsp;</p></li>
+			<li><strong>Employee incentives/rewards:</strong> These can be traded prior to an IPO or other liquidity event to create a new market when companies are staying private longer. E.g. Staff member A is awarded and vests tokens representing an equity interest and might want to sell these prior to a liquidity event to staff member B or, if permitted and where there is demand someone outside the organisation, at a discount to value to realise value now versus when the share value crystallises on a liquidity event.<p>&nbsp;</p></li>
+			<li><strong>Inheritance:</strong> Siblings inherit a high value piece of art that they don’t want to sell as it is an appreciating asset, but some of them want to release some of its value via a token sale and create ongoing transferability opportunities.<p>&nbsp;</p></li>
 			</ul>
 	</div>
 </section>
