@@ -66,7 +66,7 @@ $custom_og = '
         <h2 class="heading-2">News</h2>
         <div class="blog-feed">
 
-					<div class="blog-feed__post">
+					<!-- <div class="blog-feed__post">
 						<a href="news/2018-11-14_Rockchain-partners-with-Amazix" class="blog-feed__thumbnail" style="background-image: url(i/amazix.png);"></a>
 						<div class="blog-feed__text-wrapper">
 							<h3 class="blog-feed__heading"><a class="blog-feed__heading-link" href="news/2018-11-14_Rockchain-partners-with-Amazix">Rockchain partners with AmaZix</a></h3>
@@ -74,7 +74,7 @@ $custom_og = '
 							<div class="blog-feed__copy">A fellow GBX sponsor firm AmaZix has joined forces with Rockchain to bring more transparency to the Smart Contract related services.
 								<p><br /><a href="news/2018-11-14_Rockchain-partners-with-Amazix">Full article</a></p></div>
 						</div>
-					</div>
+					</div> -->
 
 					<div class="blog-feed__post">
 						<a href="https://www.businesstimes.com.sg/opinion/raising-capital-in-the-digital-world" class="blog-feed__thumbnail" style="background-image: url(i/bt.jpg);"></a>
