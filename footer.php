@@ -62,6 +62,12 @@
 				<li><a href="https://twitter.com/rckchn" target="_blank" class="social-icons__icon social-icons__twitter"></a></li>
 				<li><a href="https://www.linkedin.com/company/rockchain/" target="_blank" class="social-icons__icon social-icons__linkedin"></a></li>
 			</ul>
+			<p class="footer_legal">
+			<ul class="social-icons">
+				<li><a class="footer__link" href="/privacy">Privacy Policy</a></li>
+				<li><a class="footer__link" href="/terms-of-use">Terms of Use</a></li>
+			</ul>
+			</p>
 		</div>
 	</footer>
 	</div>
