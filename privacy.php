@@ -24,7 +24,7 @@ $custom_og = '
           Rockchain Limited ("us", "we", or "our") operate the Rockchain Services.  <br />  <br />
           This page informs you of our policies regarding the collection, use and disclosure of personal data when you use our Services and the choices you have associated with that data.
           <br />
-          We use your data to provide and improve the Services. By using the Services, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as in our Terms of Use, accessible from <a href="http://www.rockchain.com/terms-of-use">http://www.rockchain.com/terms-of-use</a>.
+          We use your data to provide and improve the Services. By using the Services, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as in our Terms of Use, accessible from <a href="https://rockchain.com/terms-of-use">https://rockchain.com/terms-of-use</a>.
             <br /><br />
             <h2>Definitions</h2><br />
             <strong>Rockchain Services</strong> <br />
