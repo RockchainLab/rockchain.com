@@ -132,8 +132,8 @@ $custom_og = '
 				<p class="paragraph-1">We’ve created a general solution for permissioned tokens, including asset backed digital assets and securities.</p>
 			</div>
 			<div class="box-6">
-                <p class="paragraph-1">Rockchain’s solution uses ERC20 compliant tokens in concert with a particular set-up of Multi-Sig wallets, that gives an authorized representative - such as the Company Secretary, Administrator or other <strong>existing</strong> party designated by the Company’s Board and trained by Rockchain to manage the Tokens and Multisig Wallets (we call this party the Controller) - full control over transferability, KYC/AML and any other obligations demanded by the legislation or agreements between the Issuer and Token Holders.</p>
-								<p class="paragraph-1">An authorized representative can for example be a Company Secretary or other authorised company officer, an appointed 3rd party Company Manager (regulated), or an appointed Law firm.</p>
+                <p class="paragraph-1">Rockchain’s solution uses ERC20 compliant tokens in concert with a particular set-up of Multi-Sig wallets, that gives an authorized representative full control over transferability, KYC/AML and any other obligations demanded by the legislation or agreements between the Issuer and Token Holders.</p>
+								<p class="paragraph-1">An authorized representative (we call them the Controller) can for example be a Company Secretary, Administrator, or other appointed or existing 3rd party Company Manager or Law firm.</p>
 			</div>
         </div>
 		<div class="row-3">
