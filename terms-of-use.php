@@ -20,7 +20,7 @@ $custom_og = '
 <section class="section-white">
 	<div class="container section-white__container">
 
-By using Rockproof, Token Transparency Service and/or any other or associated Rockchain Limited (‘Rockchain’) services, websites or applications including any application programming interface (“API”) (each a ‘Rockchain Service’ and together the ‘Rochcian Services’), you and the company or other entity that you represent are agreeing to the following terms of use (the “agreement”).
+By using Rockproof, Token Transparency Service and/or any other or associated Rockchain Limited (‘Rockchain’) services, websites or applications including any application programming interface (“API”) (each a ‘Rockchain Service’ and together the ‘Rockchain Services’), you and the company or other entity that you represent are agreeing to the following terms of use (the “agreement”).
 <br /><br />
 Rockchain reserves the right, in its sole discretion, to modify this agreement at any time by posting a notice to its website at Rockchain.com, Rockproof.io, TokenTanspareny.net or other applicable website or by sending you a notice via email. You shall be responsible for reviewing any such modifications, and your use of the applicable Rockchain Service(s) following such notification constitutes your acceptance of the terms and conditions of this agreement as modified.
 <br /><br />
