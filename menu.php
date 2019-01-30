@@ -8,6 +8,9 @@
 			<a class="main-menu__link <?php echo ($active == 'ict-policies')? 'active' : null; ?>" href="ict-policies">ICT Policy Templates</a>
 		</li>
 		<li class="main-menu__item">
+			<a class="main-menu__link" href="https://rockproof.io" target="_blank">RockProof</a>
+		</li>
+		<li class="main-menu__item">
 			<a class="main-menu__link <?php echo ($active == 'tokenized-securities')? 'active' : null; ?>" href="tokenized-securities">Tokenized Securities</a>
 		</li>
 		<li class="main-menu__item">
