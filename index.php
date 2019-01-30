@@ -54,7 +54,7 @@ $custom_og = '
 		</div>
 		<div class="row">
 		<ul class="overline-box">
-			<li><a class="overline-box__link" href="ict-policies">Information and Communication Technology (ICT) Policies</a>A privacy-centric timestamping solution, removing reliance on a 3rd party while maintaining irrefutable, publicly verifiable proof of data integrity.</li>
+			<li><a class="overline-box__link" href="ict-policies">Information and Communication Technology (ICT) Policies</a> Information and Communication Technology Security policy templates to manage your risk and comply with regulatory requirements.</li>
 			<li><a class="overline-box__link" href="https://rockproof.io" target="_blank">Rockproof</a>A privacy-centric timestamping solution, removing reliance on a 3rd party while maintaining irrefutable, publicly verifiable proof of data integrity.</li>
 			<li><a class="overline-box__link" href="http://www.tokentransparency.net" target="_blank">Token Transparency</a>A monitoring service observing token transactions across the Ethereum network.</li>
 			<!-- <li><a class="overline-box__link" href="#">Token Testing Facility</a>Validation of Token and other Smart Contract's functionality for compliance with its intended purpose and specification.</li> -->

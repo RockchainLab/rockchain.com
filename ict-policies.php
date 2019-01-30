@@ -22,7 +22,13 @@ $custom_og = '
 	<div class="container section-white__container">
 		<div class="row-3 paragraphs">
 			<div class="box-6 box-s-margin">
-        <p class="paragraph-1">Are you:</p>
+        <p class="paragraph-1"><strong>Information and Communication Technology Security policies are a common requirement today for anyone involved in regulated industries, such as online gambling, financial services, digital/crypto asset management companies or any business that processes customer data.</strong></p>
+        <p class="paragraph-1">If you operate a website, app, ecommerce store, software as a service products, deal with digital assets or consumer data in any way, you will need a range of policies to manage your business risk and comply with your regulatory and governance requirements. Prevention is better than cure and if you are caught unprepared, you risk damages and fines. Creating custom policies from scratch can be time-consuming and technically difficult.</p>
+        <p class="paragraph-1"><strong>That's where we come in.</strong></p>
+        <p class="paragraph-1">We have developed some easy-to-use policy templates which you can adapt to your needs, reducing your fees to other subject matter experts (including reducing your legal fees). This is a very cost-effective way to reduce the burden and significant time to create suitable policies for your business.</p>
+      </div>
+			<div class="box-6">
+      <p class="paragraph-1">Are you:</p>
 				<ul class="point-list">
 					<li>Establishing your first policies to establish good operational practices and governance for your business?</li>
           <li>Applying for licensing or seeking to meet regulatory requirements where such policies are needed?</li>
@@ -30,15 +36,10 @@ $custom_og = '
           <li>Reviewing your current policies for gaps and improvement?</li>
         </ul>
         <br />
-        <p class="paragraph-1"><strong>That's where we come in.</strong></p>
-        <p class="paragraph-1">We have developed some easy-to-use policy templates which you can adapt to your needs, reducing your fees to other subject matter experts (including reducing your legal fees). This is a very cost-effective way to reduce the burden and significant time to create suitable policies for your business.</p>
-			</div>
-			<div class="box-6">
-				<p class="paragraph-1"><strong>Information and Communication Technology Security policies are a common requirement today for anyone involved in regulated industries, such as online gambling, financial services, digital/crypto asset management companies or any business that processes customer data.</strong></p>
-        <p class="paragraph-1">If you operate a website, app, ecommerce store, software as a service products, deal with digital assets or consumer data in any way, you will need a range of policies to manage your business risk and comply with your regulatory and governance requirements. Prevention is better than cure and if you are caught unprepared, you risk damages and fines. Creating custom policies from scratch can be time-consuming and technically difficult.</p>
         <p class="paragraph-1"><strong>Information and Communication Technology Security policies templates - the whole pack for only £1499.00, for a limited time!</strong></p>
-				<a class="button-cta" href="#!" target="_blank">Buy Now!</a>
-			</div>
+        <!-- <a class="button-cta" href="#!" target="_blank">Buy Now for only £1499!</a> -->
+        <a href="https://transactions.sendowl.com/products/77972951/3D663563/purchase" rel="nofollow"><img src="https://transactions.sendowl.com/assets/external/buy-now.png" /></a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
+      </div>
 		</div>
 	</div>
 </section>
@@ -56,7 +57,8 @@ $custom_og = '
           <li>Incident management</li>
         </ul>
         <br />
-        <a class="button-cta" href="#!" target="_blank">Buy Now for only £1499!</a>
+        <!-- <a class="button-cta" href="#!" target="_blank">Buy Now for only £1499!</a> -->
+        <a href="https://transactions.sendowl.com/products/77972951/3D663563/purchase" rel="nofollow"><img src="https://transactions.sendowl.com/assets/external/buy-now.png" /></a>
 			</div>
 			<div class="box-6">
 				<p class="paragraph-1">
@@ -89,7 +91,7 @@ $custom_og = '
 <section class="section-white">
 	<div class="container section-white__container">
 		<div class="row-3 paragraphs">
-        <p class="paragraph-1"><strong>Disclaimer:</strong> These policy templates are provided to help you with your overall compliance goals an on an as-is basis only. While they represent useful information as a starting point, we do not certify or guarantee that they are appropriate for any specific use-case. They are designed as an aid only to developing appropriate policies to help your business and to address related issues for commercial or regulatory reasons. We cannot and do not guarantee any conformity with applicable law and they are not designed to be used without legal advice and you are strongly recommended to seek legal advice in adopting and implementing such policies. We are not liable for any content, code, or other errors or omissions or inaccuracies. Our website provides no warranties or guarantees. Nothing in this website, therefore, shall be considered legal advice and no lawyer/attorney-client relationship is established. Please note that further actions may be required to make your business compliant with applicable law or specific regulatory requirements.</p>
+        <p class="paragraph-1"><strong>Disclaimer:</strong> These policy templates are provided to help you with your overall compliance goals on an as-is basis only. While they represent useful information as a starting point, we do not certify or guarantee that they are appropriate or complete for any specific use-case. They are designed as an aid only to developing appropriate policies to help your business and to address related issues for commercial or regulatory reasons. We cannot and do not guarantee any conformity with applicable law and they are not designed to be used without legal advice and you are strongly recommended to seek legal advice in adopting and implementing such policies. We are not liable for any content, code, or other errors or omissions or inaccuracies. Our website provides no warranties or guarantees. Nothing in this website, therefore, shall be considered legal advice and no lawyer/attorney-client relationship is established. Please note that further actions may be required to make your business compliant with applicable law or specific regulatory requirements.</p>
 		</div>
 	</div>
 </section>
