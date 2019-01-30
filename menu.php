@@ -5,7 +5,10 @@
 			<a class="main-menu__link <?php echo ($active == 'home')? 'active' : null; ?>" href="/">Home</a>
 		</li-->
 		<li class="main-menu__item">
-			<a class="main-menu__link <?php echo ($active == 'tokenized-securities')? 'active' : null; ?>" href="tokenized-securities">Tokenized Securities (STOs)</a>
+			<a class="main-menu__link <?php echo ($active == 'ict-policies')? 'active' : null; ?>" href="ict-policies">ICT Policy Templates</a>
+		</li>
+		<li class="main-menu__item">
+			<a class="main-menu__link <?php echo ($active == 'tokenized-securities')? 'active' : null; ?>" href="tokenized-securities">Tokenized Securities</a>
 		</li>
 		<li class="main-menu__item">
 			<a class="main-menu__link <?php echo ($active == 'gbx-sponsor-firm')? 'active' : null; ?>" href="gbx_sponsor_firm">GBX Sponsor Firm</a>
@@ -39,10 +42,10 @@
 				<li class="main-menu__submenu-item">
 					<a class="main-menu__submenu-link" href="partner_with_us">Partner with us</a>
 				</li>
+				<li class="main-menu__submenu-item">
+					<a class="main-menu__submenu-link" href="https://goo.gl/forms/FSsvCCeeSORex60K3" target="_blank">Contact</a>
+				</li>
 			</ul>
-		</li>
-		<li class="main-menu__item">
-			<a class="main-menu__link" href="https://goo.gl/forms/FSsvCCeeSORex60K3" target="_blank">Contact</a>
 		</li>
 	</ul>
 	<button class="mobile-menu__trigger"></button>
