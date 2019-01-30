@@ -58,6 +58,12 @@
 				<a class="mobile-menu__link <?php echo ($active_submenu == 'home')? 'active' : null; ?>" href="/">Home</a>
 			</li-->
 			<li class="mobile-menu__item">
+			<a class="mobile-menu__link <?php echo ($active == 'ict-policies')? 'active' : null; ?>" href="ict-policies">ICT Policy Templates</a>
+		</li>
+		<li class="mobile-menu__item">
+			<a class="mobile-menu__link" href="https://rockproof.io" target="_blank">RockProof</a>
+		</li>
+			<li class="mobile-menu__item">
 				<a class="mobile-menu__link <?php echo ($active_submenu == 'tokenized-securities')? 'active' : null; ?>" href="tokenized-securities">Tokenized Securities (STOs)</a>
 			</li>
 			<li class="mobile-menu__item">
