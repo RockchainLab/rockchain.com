@@ -54,9 +54,10 @@ $custom_og = '
 		</div>
 		<div class="row">
 		<ul class="overline-box">
-			<li><a class="overline-box__link" href="#">Rockproof</a>A privacy-centric timestamping solution, removing reliance on a 3rd party while maintaining irrefutable, publicly verifiable proof of data integrity.</li>
+			<li><a class="overline-box__link" href="ict-policies">Information and Communication Technology (ICT) Policies</a>A privacy-centric timestamping solution, removing reliance on a 3rd party while maintaining irrefutable, publicly verifiable proof of data integrity.</li>
+			<li><a class="overline-box__link" href="https://rockproof.io" target="_blank">Rockproof</a>A privacy-centric timestamping solution, removing reliance on a 3rd party while maintaining irrefutable, publicly verifiable proof of data integrity.</li>
 			<li><a class="overline-box__link" href="http://www.tokentransparency.net" target="_blank">Token Transparency</a>A monitoring service observing token transactions across the Ethereum network.</li>
-			<li><a class="overline-box__link" href="#">Token Testing Facility</a>Validation of Token and other Smart Contract's functionality for compliance with its intended purpose and specification.</li>
+			<!-- <li><a class="overline-box__link" href="#">Token Testing Facility</a>Validation of Token and other Smart Contract's functionality for compliance with its intended purpose and specification.</li> -->
 		</ul>
 		</div>
 	</div>
@@ -87,12 +88,12 @@ $custom_og = '
 					</div>
 
 					<div class="blog-feed__post">
-						<a href="https://medium.com/rockchain-com/rht-holdings-and-rockchain-com-jv-66c3534ec330" class="blog-feed__thumbnail" style="background-image: url(i/rhtra-logo.png);"></a>
+						<a href="news/2018-06-20_RHT-Holdings-and-Rockchain-form-JV" class="blog-feed__thumbnail" style="background-image: url(i/rhtra-logo.png);"></a>
 						<div class="blog-feed__text-wrapper">
-							<h3 class="blog-feed__heading"><a class="blog-feed__heading-link" href="https://medium.com/rockchain-com/rht-holdings-and-rockchain-com-jv-66c3534ec330">RHT Holdings and Rockchain announce joint venture in Singapore</a></h3>
+							<h3 class="blog-feed__heading"><a class="blog-feed__heading-link" href="news/2018-06-20_RHT-Holdings-and-Rockchain-form-JV">RHT Holdings and Rockchain announce joint venture in Singapore</a></h3>
 							<div class="blog-feed__metadata">By Rockchain on June 19th 2018</div>
 							<div class="blog-feed__copy">Asia’s leading professional services group, RHT Holdings and Gibraltar-based consulting and smart contract development company, Rockchain, today announced the establishment of a joint venture to support businesses and investors tapping into increasing opportunities within the crypto economy.
-								<p><br /><a href="https://medium.com/rockchain-com/rht-holdings-and-rockchain-com-jv-66c3534ec330">Read about the RHT Rockchain JV here.</a></p></div>
+								<p><br /><a href="news/2018-06-20_RHT-Holdings-and-Rockchain-form-JV">Read about the RHT Rockchain JV here.</a></p></div>
 						</div>
 					</div>
 
