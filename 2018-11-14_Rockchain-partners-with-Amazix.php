@@ -10,11 +10,11 @@ $custom_og = '
 <meta property="og:title" content="Rockchain, Gibraltar, AmaZix, Hong Kong, Smart Contracts, Due Diligence, GBX Sponsors"/>
 <meta property="og:description" content="Rockchain joins forces with Fellow GBX Sponsor Firm AmaZix for Smart Contract related services."/>';
 ?>
-<?php include '../header.php'; ?>
+<?php include 'header.php'; ?>
 <?php $active = 'news'; //in preparatino for a dedicated section accessible from the menu?>
 <?php $active_submenu = ''; ?>
 <section class="section-hero hero-illustration-1">
-	<div class="container"><?php include '../menu.php'; ?></div>
+	<div class="container"><?php include 'menu.php'; ?></div>
 </section>
 <section class="section-white">
 	<div class="container section-white__container">
@@ -33,4 +33,4 @@ $custom_og = '
 	</div>
 </section>
 
-<?php include '../footer.php'; ?>
+<?php include 'footer.php'; ?>
