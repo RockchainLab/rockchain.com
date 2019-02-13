@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="js/jquery.js"></script>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-118410299-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-118410299-1');
+</script>
+
+	<!-- META -->
+	<title>Utility Token Development</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+
+<meta name="keywords" content="ICO Token Sale, Token Generation Event, TGE, Initial Coin Offering, Token development, Smart Contract" />
+<meta name="description" content="We develop, test and deploy a utility token smart contract for your Token Sale with custom features based on your requirements." />
+<meta name="robots" content="index, follow" />	<meta name="author" content="Rockchain.com" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+	<meta name="format-detection" content="telephone=no" />
+
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:700|Open+Sans:400,600,700" rel="stylesheet" />
+
+	<link rel="stylesheet" type="text/css" href="scss/main.css" />
+	
+
+	<!-- OG GRAPH -->
+
+<meta property="og:url" content="https://www.rockchain.com/"/>
+<meta property="og:title" content="Utility Token Development"/>
+<meta property="og:description" content="We develop, test and deploy a utility token smart contract for your Token Sale with custom features based on your requirements."/>	<meta property="og:type" content="website"/>
+	<meta property="og:image" content="i/thumbnail.jpg"/>
+	<meta property="og:site_name" content="Rockchain"/>
+</head>
+<body>
+<div class="master-wrapper">
+<section class="section-hero hero-small-illustration hero-illustration-1">
+	<div class="container section-hero__container">
+		<nav class="main-menu mobile-menu">
+	<a href="/" class="main-menu__logo"></a>
+	<ul class="main-menu__link-list">
+		<li class="main-menu__item">
+			<a class="main-menu__link " href="#!">Trustware Products</a>
+			<ul class="main-menu__submenu">
+				<li class="main-menu__submenu-item">
+					<a class="main-menu__submenu-link" href="ict-policies">ICT Policy Templates</a>
+				</li>
+				<li class="main-menu__submenu-item">
+					<a class="main-menu__submenu-link" href="https://rockproof.io" target="_blank">Rockproof Timestamps</a>
+				</li>
+				<li class="main-menu__submenu-item">
+					<a class="main-menu__submenu-link" href="https://www.tokentransparency.net" target="_blank">Token Transparency</a>
+				</li>
+			</ul>
+		</li>
+		<li class="main-menu__item">
+			<a class="main-menu__link " href="tokenized-securities">Tokenized Securities</a>
+		</li>
+		<li class="main-menu__item">
+			<a class="main-menu__link " href="gbx_sponsor_firm">GBX Sponsor Firm</a>
+		</li>
+		<li class="main-menu__item">
+			<a class="main-menu__link active" href="smart-contracts">Smart Contracts</a>
+			<ul class="main-menu__submenu">
+				<li class="main-menu__submenu-item">
+					<a class="main-menu__submenu-link" href="asset-backed-tokens">Asset Backed Tokens</a>
+				</li>
+				<li class="main-menu__submenu-item">
+					<a class="main-menu__submenu-link" href="security-tokens">Security Tokens</a>
+				</li>
+				<li class="main-menu__submenu-item">
+					<a class="main-menu__submenu-link" href="utility-tokens">Utility Tokens</a>
+				</li>
+				<li class="main-menu__submenu-item">
+					<a class="main-menu__submenu-link" href="multisig-wallets">Multi-Sig Wallets</a>
+				</li>
+				<li class="main-menu__submenu-item">
+					<a class="main-menu__submenu-link" href="bespoke-smart-contracts">Bespoke Development</a>
+				</li>
+			</ul>
+		</li>
+		<li class="main-menu__item">
+			<a class="main-menu__link " href="company">Company</a>
+			<ul class="main-menu__submenu">
+				<li class="main-menu__submenu-item">
+					<a class="main-menu__submenu-link" href="careers">Careers</a>
+				</li>
+				<li class="main-menu__submenu-item">
+					<a class="main-menu__submenu-link" href="partner_with_us">Partner with us</a>
+				</li>
+				<li class="main-menu__submenu-item">
+					<a class="main-menu__submenu-link" href="https://goo.gl/forms/FSsvCCeeSORex60K3" target="_blank">Contact</a>
+				</li>
+			</ul>
+		</li>
+	</ul>
+	<button class="mobile-menu__trigger"></button>
+	<div class="mobile-menu__flyover">
+		<ul class="mobile-menu__list">
+			<li class="mobile-menu__item">
+			<a class="mobile-menu__link " href="ict-policies">ICT Policy Templates</a>
+		</li>
+		<li class="mobile-menu__item">
+			<a class="mobile-menu__link" href="https://rockproof.io" target="_blank">RockProof</a>
+		</li>
+			<li class="mobile-menu__item">
+				<a class="mobile-menu__link " href="tokenized-securities">Tokenized Securities (STOs)</a>
+			</li>
+			<li class="mobile-menu__item">
+				<a class="mobile-menu__link " href="gbx_sponsor_firm">GBX Sponsor Firm</a>
+			</li>
+			<li class="mobile-menu__item">
+				<a class="mobile-menu__link " href="smart-contracts">Smart Contracts</a>
+				<!-- <ul class="mobile-menu__submenu">
+					<li class="mobile-menu__submenu-item">
+						<a class="mobile-menu__submenu-link active" href="utility-tokens">Utility Tokens</a>
+					</li>
+					<li class="mobile-menu__submenu-item">
+						<a class="mobile-menu__submenu-link " href="asset-backed-tokens">Asset Backed Tokens</a>
+					</li>
+					<li class="mobile-menu__submenu-item">
+						<a class="mobile-menu__submenu-link " href="security-tokens">Security Tokens</a>
+					</li>
+					<li class="mobile-menu__submenu-item">
+						<a class="mobile-menu__submenu-link " href="multisig-wallets">Multisig Wallets</a>
+					</li>
+					<li class="mobile-menu__submenu-item">
+						<a class="mobile-menu__submenu-link " href="bespoke-smart-contracts">Bespoke Development</a>
+					</li>
+				</ul> -->
+			</li>
+			<li class="mobile-menu__item">
+				<a class="mobile-menu__link " href="company">Company</a>
+				<ul class="mobile-menu__submenu">
+					<li class="mobile-menu__submenu-item">
+						<a class="mobile-menu__submenu-link " href="careers">Careers</a>
+					</li>
+					<li class="mobile-menu__submenu-item">
+						<a class="mobile-menu__submenu-link " href="partner_with_us">Partner with us</a>
+					</li>
+				</ul>
+			</li>
+			<li class="mobile-menu__item">
+				<a class="mobile-menu__link" href="https://goo.gl/forms/FSsvCCeeSORex60K3" target="_blank">Contact</a>
+			</li>
+		</ul>
+	</div>
+</nav>
+		<h1 class="heading-1"><span class="highlight">Utility Token</span> development</span>.</h1>
+    <nav class="tab-nav tab-nav-4">
+			<div class="tab-nav__tab">
+				<a class="tab-nav__link" href="smart-contracts">Smart Contracts</a>
+			</div>
+			<div class="tab-nav__tab active">
+				<a class="tab-nav__link" href="utility-tokens">Utility Tokens</a>
+			</div>
+			<div class="tab-nav__tab">
+				<a class="tab-nav__link" href="asset-backed-tokens">Asset Backed Tokens</a>
+			</div>
+			<div class="tab-nav__tab">
+				<a class="tab-nav__link" href="security-tokens">Security Tokens</a>
+			</div>
+			<div class="tab-nav__tab">
+				<a class="tab-nav__link" href="multisig-wallets">Multi-Sig Wallets</a>
+			</div>
+			<div class="tab-nav__tab">
+				<a class="tab-nav__link" href="bespoke-smart-contracts">Bespoke</a>
+			</div>
+		</nav>
+	</div>
+</section>
+<section class="section-white">
+	<div class="container section-white__container">
+    <nav class="tab-nav-mobile">
+			<div class="tab-nav-mobile__tab">
+				<a class="tab-nav-mobile__link" href="smart-contracts">Smart Contracts</a>
+			</div>
+			<div class="tab-nav-mobile__tab active">
+				<a class="tab-nav-mobile__link" href="utility-tokens">Utility Tokens</a>
+			</div>
+			<div class="tab-nav-mobile__tab">
+				<a class="tab-nav-mobile__link" href="asset-backed-tokens">Asset Backed Tokens</a>
+			</div>
+			<div class="tab-nav-mobile__tab">
+				<a class="tab-nav-mobile__link" href="security-tokens">Security Tokens</a>
+			</div>
+			<div class="tab-nav-mobile__tab">
+				<a class="tab-nav-mobile__link" href="multisig-wallets">Multi-Sig Wallets</a>
+			</div>
+			<div class="tab-nav-mobile__tab">
+				<a class="tab-nav-mobile__link" href="bespoke-smart-contracts">Bespoke</a>
+			</div>
+		</nav>
+		<h2 class="heading-2">Utility Token Smart Contract Development</h2>
+		<div class="row-3 paragraphs">
+			<div class="box-6 box-s-margin">
+				<ul class="point-list">
+					<li>ERC20 compliant smart contract for fungible tokens on Ethereum</li>
+          <li>ERC721 non-fungible tokens (NFTs) on Ethereum</li>
+          <li>Fixed / Variable supply</li>
+          <li>Mint / Burn functions</li>
+          <li>Ability to start / stop tranferability</li>
+          <li>Permissioning access to various smart contract features</li>
+          <li>Upgradability features</li>
+          <li>Lockups and vesting options</li>
+          <li>Training and administrative support</li>
+				</ul>
+			</div>
+			<div class="box-6">
+				<p class="paragraph-1"><a href="https://en.wikipedia.org/wiki/ERC-20">ERC20</a> and <a href="http://erc721.org/">ERC721</a> compliant tokens are the most popular types of smart contracts on the Ethereum blockchain. Often used as the means of fundraising during <a href="utility-token-sale">Utility Token Sales</a>, they have gained massive popularity in the Token Economy.</p>
+				<p class="paragraph-1">These tokens are widely accepted by crypto trading venues. Their standarized interface allows seamless integration into most popular wallets, exchanges and decentralized applications.</p>
+				<p class="paragraph-1">Rockchain's smart contract developers can design, develop, test, audit and deploy the ERC20/ERC721 tokens according to your needs, with a number of additional features tailored to your requirements. </p>
+				<a class="button-cta" href="https://goo.gl/forms/FSsvCCeeSORex60K3" target="_blank">Contact</a>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="section-questions">
+	<div class="container section-questions__container">
+    <h2>How do we develop Utility Token Smart contracts?</h2>
+		<div class="question-wrapper">
+			<h6 class="question-wrapper__question">Technical specification</h6>
+			<div class="question-wrapper__answer">
+				<p>The ERC20/ERC721 specify the minimum functionality that an Ethereum smart contract needs to provide to users in order to be considered compatible with the respective tokens. As long as that minimum is provided, an arbitrary number of additional features can be included in the contract without breaking compatibility.</p>
+				<p>We work with you closely to understand your needs and prepare a Technical Specification document, describing the attributes of your Token and any additional features you select, while ensuring compatibility with the selected standard.</p>
+			</div>
+		</div>
+		<div class="question-wrapper">
+			<h6 class="question-wrapper__question">Token Development</h6>
+			<div class="question-wrapper__answer">
+				<p>We develop the smart contract in the Solidity programming language, following industry best coding practices, using robust and production tested frameworks and libraries. We will make the resulting code available to you in your private <a href="https://github.com">GitHub</a> repository. You may chose to make the repository public, and allow your community to independently verify contract compliance with your other project documentation.
+</p>
+			</div>
+		</div>
+		<div class="question-wrapper">
+			<h6 class="question-wrapper__question">Token Testing</h6>
+			<div class="question-wrapper__answer">
+        <h3>Unit Tests</h3>
+				<p>We test the token smart contract off-chain first, using industry standard tools and local Ethereum blockchain. We perform Unit Tests for each function in the Smart Contract separately. Unit tests are actions that focus on a specific unit of code, usually a function, and stress it by trying out different inputs, both normal and abnormal, checking that the outputs are as expected.</p>
+        <h3>Integration Tests</h3>
+        <p>We then run Integration Tests for the contract as a whole. Integration tests involve multiple pieces of the code, usually functions, being run in concert in order to simulate a process flow and verify that the different parts work together as specified.</p>
+        <h3>Testnet deployment</h3>
+        <p>Lastly, we deploy the contract to one of the Ethereum test networks (e.g. Ropsten) and run the tests again in a distributed environment.</p>
+			</div>
+		</div>
+		<div class="question-wrapper">
+			<h6 class="question-wrapper__question">Token Audit</h6>
+			<div class="question-wrapper__answer">
+        <h3>Audit preparation</h3>
+				<p>An audit should be conducted prior deployment on the main net (e.g. Ethereum) by a reputable, independent third party. We’ll work closely with your Code Auditor, to ensure a smooth and seamless auditing processes.</p>
+        <h3>Audit feedback implementation</h3>
+        <p>We’ll carefully analyse and process feedback received from your auditor and implement it into the code.</p>
+			</div>
+		</div>
+
+		<div class="question-wrapper">
+			<h6 class="question-wrapper__question">Mainnet Deployment</h6>
+			<div class="question-wrapper__answer">
+				<p>We will compile and deploy the Token Smart Contract to the Ethereum mainnet. From now on the public can start interacting with your Token.</p>
+			</div>
+		</div>
+		<div class="question-wrapper">
+			<h6 class="question-wrapper__question">Post Deployment Administration</h6>
+			<div class="question-wrapper__answer">
+				<p>While Rockchain remains in control of the administrative functions of the smart contract immediately after the deployment, we can perform administrative actions as per your request.</p>
+			</div>
+		</div>
+    <div class="question-wrapper">
+			<h6 class="question-wrapper__question">Transfer of Ownership</h6>
+			<div class="question-wrapper__answer">
+				<p>The Owner of the contract will be changed from the deployer (Rockchain) to your designated Ethereum address.</p>
+			</div>
+		</div>
+	</div>
+</section>
+	<footer class="footer">
+		<div class="container footer__container">
+			<a class="footer__logo" href="/"></a>
+			<ul class="footer__link-list">
+				<li class="footer__link-column">
+					<a class="footer__link" href="tokenized-securities">Tokenized Securities</a>
+				</li>
+				<li class="footer__link-column">
+					<a class="footer__link" href="gbx_sponsor_firm">GBX Sponsor Firm</a>
+					<!-- <ul class="footer__submenu">
+						<li class="footer__submenu-item">
+							<a class="footer__submenu-link" href="about_gbx">About GBX</a>
+						</li>
+						<li class="footer__submenu-item">
+							<a class="footer__submenu-link" href="engagement_process">Engagement process</a>
+						</li>
+						<li class="footer__submenu-item">
+							<a class="footer__submenu-link" href="evaluation_report">Evaluation report</a>
+						</li>
+					</ul> -->
+				</li>
+				<li class="footer__link-column">
+					<a class="footer__link" href="token_sales">Smart Contracts</a>
+					<!-- <ul class="footer__submenu">
+						<li class="footer__submenu-item">
+							<a class="footer__submenu-link" href="utility-tokens">Utility Tokens</a>
+						</li>
+						<li class="footer__submenu-item">
+							<a class="footer__submenu-link" href="asset-backed-tokens">Asset Backed Tokens</a>
+						</li>
+						<li class="footer__submenu-item">
+							<a class="footer__submenu-link" href="security-tokens">Security Tokens</a>
+						</li>
+						<li class="footer__submenu-item">
+							<a class="footer__submenu-link" href="multisig-wallets">Multi-Sig Wallets</a>
+						</li>
+						<li class="footer__submenu-item">
+							<a class="footer__submenu-link" href="bespoke-smart-contracts">Bespoke Smart Contracts</a>
+						</li>
+					</ul> -->
+				</li>
+				<li class="footer__link-column">
+					<a class="footer__link" href="company">Company</a>
+					<!-- <ul class="footer__submenu">
+						<li class="footer__submenu-item">
+							<a class="footer__submenu-link" href="careers">Careers</a>
+						</li>
+						<li class="footer__submenu-item">
+							<a class="footer__submenu-link" href="partner_with_us">Partner with us</a>
+						</li>
+						<li class="footer__submenu-item">
+							<a class="footer__submenu-link" href="https://goo.gl/forms/FSsvCCeeSORex60K3" target="_blank">Contact</a>
+						</li>
+					</ul> -->
+				</li>
+			</ul>
+			<div class="footer__copy">
+				<p class="footer__copy-text">&copy; 2017-2018 Rockchain</p>
+			</div>
+			<p class="footer_legal">Rockchain Ltd., World Trade Centre, 3.20<br />6, Bayside Road, GX11 1AA, Gibraltar<br />Rockchain is a registered Community Trade Mark.</p>
+			<ul class="social-icons">
+				<li><a href="https://twitter.com/rckchn" target="_blank" class="social-icons__icon social-icons__twitter"></a></li>
+				<li><a href="https://www.linkedin.com/company/rockchain/" target="_blank" class="social-icons__icon social-icons__linkedin"></a></li>
+			</ul>
+			<p class="footer_legal">
+			<ul class="social-icons">
+				<li><a class="footer__link" href="privacy">Privacy Policy</a></li>
+				<li><a class="footer__link" href="terms-of-use">Terms of Use</a></li>
+			</ul>
+			</p>
+		</div>
+	</footer>
+	</div>
+	<script src="js/functions.js"></script>
+</body>
+</html>
