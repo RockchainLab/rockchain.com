@@ -51,7 +51,8 @@
 					<a class="main-menu__submenu-link" href="partner_with_us">Partner with us</a>
 				</li>
 				<li class="main-menu__submenu-item">
-					<a class="main-menu__submenu-link" href="https://goo.gl/forms/FSsvCCeeSORex60K3" target="_blank">Contact</a>
+					<!-- <a class="main-menu__submenu-link" href="https://goo.gl/forms/FSsvCCeeSORex60K3" target="_blank">Contact</a> -->
+					<a class="main-menu__submenu-link" href="mailto:info@rockchain.com">Contact</a>
 				</li>
 			</ul>
 		</li>
@@ -103,7 +104,8 @@
 				</ul>
 			</li>
 			<li class="mobile-menu__item">
-				<a class="mobile-menu__link" href="https://goo.gl/forms/FSsvCCeeSORex60K3" target="_blank">Contact</a>
+				<!-- <a class="mobile-menu__link" href="https://goo.gl/forms/FSsvCCeeSORex60K3" target="_blank">Contact</a> -->
+				<a class="mobile-menu__link" href="mailto:info@rockchain.com" target="_blank">Contact</a>
 			</li>
 		</ul>
 	</div>
