@@ -77,8 +77,7 @@ $custom_og = '
 				<p class="paragraph-1">Dedicated service, tailored to your specific needs. We carefully analyse your objectives and advise on technology suitability and other options.</p>
 				<p class="paragraph-1">We develop technical specification and other design and architecture documents to support the development process, estimate the time and cost, develop, test, facilitate audit and deploy the final solution.</p>
 				<p class="paragraph-1">Tell us about your project and explore how we can assist you.</p>
-				<!-- <a class="button-cta" href="https://goo.gl/forms/FSsvCCeeSORex60K3" target="_blank">Contact</a> -->
-				<a class="button-cta" href="mailto:info@rockchain.com">Contact</a>
+				<a class="button-cta" href="https://goo.gl/forms/FSsvCCeeSORex60K3" target="_blank">Contact</a>
 			</div>
 		</div>
 	</div>
