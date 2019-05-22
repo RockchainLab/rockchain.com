@@ -1,11 +1,7 @@
 <nav class="main-menu mobile-menu">
 	<a href="/" class="main-menu__logo"></a>
 	<ul class="main-menu__link-list">
-		<!--li class="main-menu__item">
-			<a class="main-menu__link <?php echo ($active == 'home')? 'active' : null; ?>" href="/">Home</a>
-		</li-->
 		<li class="main-menu__item">
-<<<<<<< HEAD
 			<a class="main-menu__link <?php echo ($active == 'trustware')? 'active' : null; ?>" href="#!">Trustware Products</a>
 			<ul class="main-menu__submenu">
 				<li class="main-menu__submenu-item">
@@ -18,12 +14,6 @@
 					<a class="main-menu__submenu-link" href="https://www.tokentransparency.net" target="_blank">Token Transparency</a>
 				</li> -->
 			</ul>
-=======
-			<a class="main-menu__link <?php echo ($active == 'ict-policies')? 'active' : null; ?>" href="ict-policies">ICT Policy Templates</a>
-		</li>
-		<li class="main-menu__item">
-			<a class="main-menu__link" href="https://rockproof.io" target="_blank">RockProof</a>
->>>>>>> parent of be7fa73... fixed menu
 		</li>
 		<li class="main-menu__item">
 			<a class="main-menu__link <?php echo ($active == 'tokenized-securities')? 'active' : null; ?>" href="tokenized-securities">Tokenized Securities</a>
@@ -70,9 +60,6 @@
 	<button class="mobile-menu__trigger"></button>
 	<div class="mobile-menu__flyover">
 		<ul class="mobile-menu__list">
-			<!--li class="mobile-menu__item">
-				<a class="mobile-menu__link <?php echo ($active_submenu == 'home')? 'active' : null; ?>" href="/">Home</a>
-			</li-->
 			<li class="mobile-menu__item">
 			<a class="mobile-menu__link <?php echo ($active == 'ict-policies')? 'active' : null; ?>" href="ict-policies">ICT Policy Templates</a>
 		</li>
