@@ -77,8 +77,12 @@ $custom_og = '
 			<div class="box-6">
 				<p class="paragraph-1">An Asset Backed Token is a representation of a unique asset (digital or real world) in the form of a virtual token deployed on a blockchain or other form of Distributed Ledger Technology (DLT). It verifiably proves the ownership and authenticity of an asset. For example, a specific real estate, piece of art or precious gem is tokenized and ownership of the token directly reflects ownership of the item, immutably stored on the blockchain.</p>
 				<p class="paragraph-1">These tokens help to unlock transferable value, that is traditionally trapped in less liquid assets and enables further fractionalized ownership of such assets.</p>
+<<<<<<< HEAD
 				<!-- <a class="button-cta" href="https://goo.gl/forms/FSsvCCeeSORex60K3" target="_blank">Contact</a> -->
 				<a class="button-cta" href="mailto:info@rockchain.com" target="_blank">Contact</a>
+=======
+				<a class="button-cta" href="https://goo.gl/forms/FSsvCCeeSORex60K3" target="_blank">Contact</a>
+>>>>>>> 5c5b645c89d7f4b15a9fd0ba4ef9b47ce26a15eb
 			</div>
 		</div>
 	</div>

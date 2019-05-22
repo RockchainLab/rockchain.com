@@ -80,8 +80,12 @@ $custom_og = '
 				<p class="paragraph-1"><a href="https://en.wikipedia.org/wiki/ERC-20">ERC20</a> and <a href="http://erc721.org/">ERC721</a> compliant tokens are the most popular types of smart contracts on the Ethereum blockchain. Often used as the means of fundraising during <a href="utility-token-sale">Utility Token Sales</a>, they have gained massive popularity in the Token Economy.</p>
 				<p class="paragraph-1">These tokens are widely accepted by crypto trading venues. Their standarized interface allows seamless integration into most popular wallets, exchanges and decentralized applications.</p>
 				<p class="paragraph-1">Rockchain's smart contract developers can design, develop, test, audit and deploy the ERC20/ERC721 tokens according to your needs, with a number of additional features tailored to your requirements. </p>
+<<<<<<< HEAD
 				<!-- <a class="button-cta" href="https://goo.gl/forms/FSsvCCeeSORex60K3" target="_blank">Contact</a> -->
 				<a class="button-cta" href="mailto:info@rockchain.com">Contact</a>
+=======
+				<a class="button-cta" href="https://goo.gl/forms/FSsvCCeeSORex60K3" target="_blank">Contact</a>
+>>>>>>> 5c5b645c89d7f4b15a9fd0ba4ef9b47ce26a15eb
 			</div>
 		</div>
 	</div>

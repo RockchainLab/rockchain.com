@@ -190,7 +190,11 @@ $custom_og = '
 		<h2 class="heading-2">I want to tokenize - what’s next?</h2>
 		<p>We can support the design and issue of a security token or asset-backed token offering working closely with your law firm, financial advisers and company managers/administrators. We will develop the token and associated smart contract and support the set up of the multisig wallets necessary to manage the tokens, however our role will extend beyond this to ensure a coordinated delivery and set up for your token.</p>
 		<p>&nbsp;</p>
+<<<<<<< HEAD
 		<p>In order to help us to evaluate your needs, please <a href="mailto:info@rockchain.com">contact us.</a></p>
+=======
+		<p>In order to help us to evaluate your needs, please contact us using <a href="https://goo.gl/forms/FSsvCCeeSORex60K3" target="_blank">the contact form.</a></p>
+>>>>>>> 5c5b645c89d7f4b15a9fd0ba4ef9b47ce26a15eb
 		<p>&nbsp;</p>
 		<h4 class="heading-4">Pricing</h4>
  		<p>We will work with your corporate finance and legal advisers to define any suitable solution.</p>
