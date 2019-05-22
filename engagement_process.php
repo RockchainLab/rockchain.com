@@ -54,12 +54,8 @@ $custom_og = '
 			<h6 class="question-wrapper__question">Tell us about your project</h6>
 			<div class="question-wrapper__answer">
 				<p>Thinking about a Token Sale or GBX Listing and need advice? Complete the form and we will get back to you.</p>
-<<<<<<< HEAD
 				<!-- <a class="button-cta" href="https://goo.gl/forms/FSsvCCeeSORex60K3" target="_blank">Contact Form</a> -->
 				<a class="button-cta" href="mailto:info@rockchain.com">Contact Form</a>
-=======
-				<a class="button-cta" href="https://goo.gl/forms/FSsvCCeeSORex60K3" target="_blank">Contact Form</a>
->>>>>>> 5c5b645c89d7f4b15a9fd0ba4ef9b47ce26a15eb
 			</div>
 		</div>
 		<div class="question-phase">Phase &mdash; 1</div>

@@ -83,12 +83,8 @@ $custom_og = '
 				<p class="paragraph-1">Security Tokens can bring many benefits to the traditional world of issuing and trading of securities, such as access to a wider base of investors, 24/7 liquidity, peer-to-peer trading, raising funds in cryptocurrency, removing of costly and often inefficient intermediaries.</p>
 				<p class="paragraph-1">However, these are regulated financial instruments and as such require careful planning, legal and technical analysis to ensure compliance with complex rules that vary across jurisdictions.</p>
 				<p class="paragraph-1">Rockchain can help you analyse your goals and requirements and develop the Security Smart Contract to match your expecations and compliance rules.</p>
-<<<<<<< HEAD
 				<!-- <a class="button-cta" href="https://goo.gl/forms/FSsvCCeeSORex60K3" target="_blank">Contact</a> -->
 				<a class="button-cta" href="mailto:info@rockchain.com">Contact</a>
-=======
-				<a class="button-cta" href="https://goo.gl/forms/FSsvCCeeSORex60K3" target="_blank">Contact</a>
->>>>>>> 5c5b645c89d7f4b15a9fd0ba4ef9b47ce26a15eb
 			</div>
 		</div>
 	</div>
