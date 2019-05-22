@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<script src="js/jquery.js"></script>
+<script src="/js/jquery.js"></script>
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-118410299-1"></script>
 <script>
@@ -24,13 +24,13 @@
 
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:700|Open+Sans:400,600,700" rel="stylesheet" />
 
-	<link rel="stylesheet" type="text/css" href="scss/main.css" />
+	<link rel="stylesheet" type="text/css" href="/scss/main.css" />
 	
 
 	<!-- OG GRAPH -->
 <? echo $custom_og;?>
 	<meta property="og:type" content="website"/>
-	<meta property="og:image" content="i/thumbnail.jpg"/>
+	<meta property="og:image" content="https://www.rockchain.com/i/thumbnail.jpg"/>
 	<meta property="og:site_name" content="Rockchain"/>
 </head>
 <body>

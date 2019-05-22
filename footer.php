@@ -64,13 +64,13 @@
 			</ul>
 			<p class="footer_legal">
 			<ul class="social-icons">
-				<li><a class="footer__link" href="privacy">Privacy Policy</a></li>
-				<li><a class="footer__link" href="terms-of-use">Terms of Use</a></li>
+				<li><a class="footer__link" href="/privacy">Privacy Policy</a></li>
+				<li><a class="footer__link" href="/terms-of-use">Terms of Use</a></li>
 			</ul>
 			</p>
 		</div>
 	</footer>
 	</div>
-	<script src="js/functions.js"></script>
+	<script src="/js/functions.js"></script>
 </body>
 </html>
