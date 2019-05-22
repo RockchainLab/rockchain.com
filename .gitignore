@@ -4,7 +4,6 @@
 
 # testing
 /coverage
-/Assets/PSD
 
 # production
 /build
