@@ -90,7 +90,7 @@ $custom_og = '
 				<p>Oliver advises clients on their project finance models and on best practice financial management and control systems. Sound financial infrastructure is imperative, at all stages of the lifecycle, from seed funding and pre-sale, through to the main fundraising event and after.  Post fundraising, Oliver assists project in their financial systems, management, performance  and investor information key to ensuring that informed decisions are made and that a project is in the best position to deliver on all its objectives.</p>
 				<p>Oliver is a Fellow of the Association of Chartered Certified Accountants, with almost 20 years professional experience advising on a wide range of aspects in accountancy, corporate finance and taxation. His experience includes statutory and management accounting, specialist back office outsourcing, corporate and personal taxation, corporate finance, company valuations and structured investments including UK Venture Capital Schemes (SEIS, EIS, VCT) and UCIS. Oliver is also Managing and Financer Director of Acquarius Trust Company Limited which is licensed and regulated by the Gibraltar Financial Services commission. Oliver is a highly professional and driven individual with a results focused, commercial but creative outlook.</p>
 			</div>
-			<div class="box-6 team-member">
+			<!-- <div class="box-6 team-member">
 				<div class="team-member__picture-wrapper">
 					<div class="team-member__picture team-member__picture-4"></div>
 					<div class="team-member__name-wrapper">
@@ -102,6 +102,6 @@ $custom_og = '
 				<p>Having been a partner with Deloitte (and the predecessor firm Arthur Andersen) since 1996, Timothy has had a wide range of both senior client and business leadership roles in the UK and Internationally. In particular, Timothy  was responsible for developing a wide range of businesses globally and has significant experience of leading large senior teams as well as Board and Executive Leadership. Timothy is a Fellow of the Institute of Chartered Accountants of England and Wales and has a MBA from Manchester Business School.</p>
 			</div>
 		</div>
-	</div>
+	</div> -->
 </section>
 <?php include 'footer.php'; ?>
